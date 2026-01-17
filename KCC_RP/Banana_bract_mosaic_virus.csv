@@ -1,0 +1,11 @@
+BlockName,Category,Year,Month,Day,Crop,DistrictName,QueryType,Season,Sector,StateName,QueryText,KccAns,latitude,longitude
+"0   ",Fruits,2011,6,2,Banana,"Cooch BIHAR",75,RABI,HORTICULTURE,"WEST BENGAL","Banana bract mosaic virus of banana","Effective control of the disease is similar to that of other viral diseasesIt requires early detection and immediate eradication of infected plantsIn establishing new banana plantings only virus-free propagating materials should be used",26.3224,89.4592
+"POLLACHI NORTH",Fruits,2012,6,6,Banana,COIMBATORE,75,JAYAD,HORTICULTURE,TAMILNADU,"banana bract mosaic virus","spray monocrotophos 2 ml   lit in vector control",11.0018,76.9628
+ANDIYUR,Fruits,2012,9,2,Banana,ERODE,75,JAYAD,HORTICULTURE,TAMILNADU,"Banana bract mosaic virus","spray tilt 2mllit",11.4905,77.3505
+THOVALA,Fruits,2012,12,18,Banana,"KANNIYA KUMARI",75,KHARIF,HORTICULTURE,TAMILNADU,"Banana bract mosaic virus","spray tilt 2mllit",10.9094,78.3665
+KALASAPAKKAM,Fruits,2012,12,13,Banana,TIRUVANNAMALAI,75,KHARIF,HORTICULTURE,TAMILNADU,"Banana bract mosaic virus","It requires early detection and immediate eradication of infected plants",12.4289,78.9992
+KHANDWA,Fruits,2013,5,6,Banana,"EAST NIMAR","Plant Protection",RABI,HORTICULTURE,"MADHYA PRADESH","how to control Banana bract mosaic virus","immediate eradication of infected plantsIn establishing new banana plantings only virus-free propagating materials should be used",21.75,76.5833
+MURIBAHAL,Fruits,2014,6,18,Banana,BALANGIR,nan,nan,HORTICULTURE,ODISHA,"Banana bract mosaic virus","immediate eradication of infected plants",20.6095,83.1673
+BOUDH,Fruits,2014,10,25,Banana,BAUDH,"Plant Protection",nan,HORTICULTURE,ODISHA,"Banana bract mosaic virus","recommended to spray imidachlopride 5ml15 liter of water",20.8416,84.3213
+TIRUVELANGADU,Fruits,2014,10,7,Banana,THIRUVALLUR,"Plant Protection",KHARIF,HORTICULTURE,TAMILNADU,"Banana bract mosaic virus","Recommended for only virus-free propagating materials should be used",13.2538,80.0563
+SASTHAMCOTTAH,Fruits,2016,7,5,Banana,KOLLAM,"Plant Protection",nan,HORTICULTURE,KERALA,"banana bract mosaic virus","ekalux 2mll",8.88724,76.5909

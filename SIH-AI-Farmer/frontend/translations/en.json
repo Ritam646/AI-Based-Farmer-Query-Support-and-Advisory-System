@@ -1,0 +1,20 @@
+{
+    "header.title": "AI Farmer Platform",
+    "hero.title": "Empowering Indian Farmers",
+    "hero.subtitle": "Winner of Smart India Hackathon 2025",
+    "hero.description": "Leveraging AI to provide disease prediction, agricultural knowledge, and market insights for farmers across India.",
+    "features.disease.title": "Disease Prediction",
+    "features.disease.description": "Upload a leaf image to detect crop diseases using our advanced CNN-ViT hybrid model.",
+    "features.disease.button": "Predict Disease",
+    "features.knowledge.title": "Knowledge Base",
+    "features.knowledge.description": "Ask agricultural questions and get answers from our AI-powered knowledge base.",
+    "features.knowledge.placeholder": "e.g., How to control red rust?",
+    "features.knowledge.button": "Get Advice",
+    "features.market.title": "Market Analysis",
+    "features.market.description": "Get real-time commodity price insights (coming soon).",
+    "features.market.placeholder": "e.g., Mango prices in Delhi",
+    "features.market.button": "Get Insights",
+    "results.disease": "Predicted Disease:",
+    "results.confidence": "Confidence:",
+    "footer.text": "Built with ❤️ for Indian farmers | SIH 2025 Winner"
+}

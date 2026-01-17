@@ -1,0 +1,20 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+#disease-result, #knowledge-result, #market-result {
+    transition: all 0.3s ease;
+}
+
+input[type="file"], input[type="text"] {
+    border: 2px solid #A5D6A7;
+    border-radius: 8px;
+}
+
+button {
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    transform: translateY(-2px);
+}

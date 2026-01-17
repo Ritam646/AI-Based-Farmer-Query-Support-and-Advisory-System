@@ -1,0 +1,40 @@
+pepper bell_Bacterial spot
+pepper bell_Healthy
+Wheat_BlackPoint
+Wheat_FusariumFootRot
+Wheat_HealthyLeaf
+Wheat_LeafBlight
+Wheat_WheatBlast
+Rubber_Anthracnose
+Rubber_Dry leaf
+Rubber_Healthy
+Rubber_Leaf Spot
+Coffee_Healthy
+Coffee_Phoma
+Coffee_leaf rust
+Banana_Cordana
+Banana_Healthy
+Banana_Sigatoka
+Banana_pastalotiopsis
+Cardamom_Blight
+Cardamom_Healthy
+Cardamom_Phylosticta
+Coconut_Caterpillar
+Coconut_Drying of leaves
+Coconut_Flaccidity
+Coconut_Healthy leaves
+Coconut_Yellowing
+Coconut_leaflet
+Mango_Alternaria
+Mango_Anthracnose
+Mango_Black Mould rot
+Mango_Healthy
+Mango_Stem and root
+Potato_Potato___Early_blight
+Potato_Potato___Late_blight
+Potato_Potato___healthy
+Rice_Bacterial leaf Blight
+Rice_Healthy leaf
+Rice_Rice
+Rice_Rice Blast
+Rice_Tungro

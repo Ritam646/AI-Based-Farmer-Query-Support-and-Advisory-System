@@ -1,0 +1,20 @@
+{
+    "header.title": "ஏஐ விவசாயி மேடை",
+    "hero.title": "இந்திய விவசாயிகளை மேம்படுத்துதல்",
+    "hero.subtitle": "ஸ்மார்ட் இந்தியா ஹேக்கத்தான் 2025 வெற்றியாளர்",
+    "hero.description": "இந்தியா முழுவதும் உள்ள விவசாயிகளுக்கு நோய் கணிப்பு, விவசாய அறிவு மற்றும் சந்தை நுண்ணறிவு வழங்க AI ஐப் பயன்படுத்துதல்.",
+    "features.disease.title": "நோய் கணிப்பு",
+    "features.disease.description": "எங்கள் மேம்பட்ட CNN-ViT கலப்பு மாதிரியைப் பயன்படுத்தி பயிர் நோய்களைக் கண்டறிய இலை படத்தைப் பதிவேற்றவும்.",
+    "features.disease.button": "நோயைக் கணிக்கவும்",
+    "features.knowledge.title": "அறிவு தளம்",
+    "features.knowledge.description": "விவசாய கேள்விகளைக் கேளுங்கள் மற்றும் எங்கள் AI-ஆல் இயக்கப்படும் அறிவு தளத்திலிருந்து பதில்களைப் பெறுங்கள்.",
+    "features.knowledge.placeholder": "எ.கா., சிவப்பு துருவை எவ்வாறு கட்டுப்படுத்துவது?",
+    "features.knowledge.button": "ஆலோசனை பெறவும்",
+    "features.market.title": "சந்தை பகுப்பாய்வு",
+    "features.market.description": "நிகழ்நேர பொருட்கள் விலை நுண்ணறிவு பெறவும் (விரைவில் வரவுள்ளது).",
+    "features.market.placeholder": "எ.கா., டெல்லியில் மாம்பழ விலைகள்",
+    "features.market.button": "நுண்ணறிவு பெறவும்",
+    "results.disease": "கணிக்கப்பட்ட நோய்:",
+    "results.confidence": "நம்பிக்கை:",
+    "footer.text": "இந்திய விவசாயிகளுக்காக ❤️ உடன் கட்டப்பட்டது | SIH 2025 வெற்றியாளர்"
+}

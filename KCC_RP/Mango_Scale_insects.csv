@@ -1,0 +1,6 @@
+BlockName,Category,Year,Month,Day,Crop,DistrictName,QueryType,Season,Sector,StateName,QueryText,KccAns,latitude,longitude
+BHUTA,Fruits,2012,10,22,Mango,BAREILLY,0,nan,HORTICULTURE,"UTTAR PRADESH","Scale Insects","Dimethoate 003 3MLL WATER SPARY",28.4582,79.4047
+PRATAPPUR,Fruits,2012,11,22,Mango,ALLAHABAD,76,nan,HORTICULTURE,"UTTAR PRADESH","Scale Insects in Mango","Dimethoate 001 1mll water",25.4381,81.8338
+SARDARNAGAR,Fruits,2012,10,27,Mango,GORAKHPUR,76,nan,HORTICULTURE,"UTTAR PRADESH","Scale Insects","Dimethoate 002 2MLL WATER SPRAY",26.6678,83.3642
+REWA,Fruits,2017,10,18,Mango,REWA,"Plant Protection",RABI,HORTICULTURE,"MADHYA PRADESH","Farmer needs information regarding control measures of scale insects  in mango","recomended: Monocrotophos 36 WSC 1000 mlhectare to control scaly insects",24.7561,81.3811
+BHUBANESWAR,Fruits,2021,3,17,Mango,KHORDHA,"Plant Protection",nan,HORTICULTURE,ODISHA,"Scale insects in Mango","Recommended to spray Thiamethoxam 25WG  6gm per 15 liter of water for controlling Scale insects in Mango",20.0538,85.5023

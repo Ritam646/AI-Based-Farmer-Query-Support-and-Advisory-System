@@ -1,0 +1,20 @@
+{
+    "header.title": "एआई किसान मंच",
+    "hero.title": "भारतीय किसानों को सशक्त बनाना",
+    "hero.subtitle": "स्मार्ट इंडिया हैकथॉन 2025 का विजेता",
+    "hero.description": "भारत भर के किसानों के लिए रोग भविष्यवाणी, कृषि ज्ञान और बाजार अंतर्दृष्टि प्रदान करने के लिए AI का उपयोग।",
+    "features.disease.title": "रोग भविष्यवाणी",
+    "features.disease.description": "हमारे उन्नत CNN-ViT हाइब्रिड मॉडल का उपयोग करके फसल रोगों का पता लगाने के लिए पत्ती की छवि अपलोड करें।",
+    "features.disease.button": "रोग का अनुमान लगाएं",
+    "features.knowledge.title": "ज्ञान आधार",
+    "features.knowledge.description": "कृषि संबंधी प्रश्न पूछें और हमारे AI-संचालित ज्ञान आधार से उत्तर प्राप्त करें।",
+    "features.knowledge.placeholder": "उदाहरण: लाल जंग को कैसे नियंत्रित करें?",
+    "features.knowledge.button": "सलाह लें",
+    "features.market.title": "बाजार विश्लेषण",
+    "features.market.description": "वास्तविक समय में वस्तु मूल्य अंतर्दृष्टि प्राप्त करें (शीघ्र उपलब्ध)।",
+    "features.market.placeholder": "उदाहरण: दिल्ली में आम के दाम",
+    "features.market.button": "अंतर्दृष्टि प्राप्त करें",
+    "results.disease": "अनुमानित रोग:",
+    "results.confidence": "विश्वास:",
+    "footer.text": "भारतीय किसानों के लिए ❤️ के साथ बनाया गया | SIH 2025 विजेता"
+}

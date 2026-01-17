@@ -1,0 +1,32 @@
+BlockName,Category,Year,Month,Day,Crop,DistrictName,QueryType,Season,Sector,StateName,QueryText,KccAns,latitude,longitude
+"0   ",0,2009,7,29,Banana,COIMBATORE,29,JAYAD,HORTICULTURE,TAMILNADU,"Control measure leaf roller for Banana","Spray monocrotophos 2ml  lit of water",11.0018,76.9628
+"0   ",0,2010,8,4,Banana,THRISSUR,0,nan,HORTICULTURE,KERALA,"leaf roller attack in banana variety nendarn","spray ekalux 2ml per litre or sevin 4g per litre",10.527,76.2146
+"BANGALORE EAST",Fruits,2014,12,15,Banana,BANGALORE,"Plant Protection",nan,HORTICULTURE,KARNATAKA,"leaf roller","carboryll 4g in 1lt of water",12.9882,77.6226
+KOPPA,Fruits,2014,12,14,Banana,CHIKMAGALUR,"Plant Protection",nan,HORTICULTURE,KARNATAKA,"banana leaf roller","chloropyriphos 2ml and neem oil  3ml",13.318,75.7739
+CHICKMAGALUR,Fruits,2014,12,26,Banana,CHIKMAGALUR,"Plant Protection",nan,HORTICULTURE,KARNATAKA,"banana plant protection leaf roller","visit to parasitoid lab and collect trichogram cards",13.318,75.7739
+MADHUGIRI,Fruits,2014,12,6,Banana,TUMKUR,"Plant Protection",nan,HORTICULTURE,KARNATAKA,"LEAF ROLLER","MONOCROTOPOS  15MLLT",13.3401,77.1006
+Gauribidanur,Fruits,2014,11,30,Banana,CHIKKABALLAPUR,"Plant Protection",nan,HORTICULTURE,KARNATAKA,"LEAF ROLLER","MONOCROTOPOS  1MLLT",13.0994,77.3887
+AZHUTHA,Fruits,2014,9,26,Banana,IDUKKI,"Plant Protection",nan,HORTICULTURE,KERALA,"banana leaf roller caterpillar","apply gomoothra misritham",9.81548,76.9992
+IDUKKI,Fruits,2014,11,9,Banana,IDUKKI,"Plant Protection",nan,HORTICULTURE,KERALA,"banana leaf roller","apply ekalux 2ml litre",9.81548,76.9992
+TIRUR,Fruits,2014,6,24,Banana,MALAPPURAM,nan,nan,HORTICULTURE,KERALA,"banana leaf roller","apply ekalux 2 ml per 1 litre of water",11.1068,76.11
+"SULTHAN BATHERY",Fruits,2014,6,23,Banana,WAYANAD,nan,nan,HORTICULTURE,KERALA,"banana leaf roller worm","banana leaf roller worm apply ekalux 2 ml per 1 litre of water",11.7151,76.1271
+PERAVOOR,Fruits,2014,6,27,Banana,KANNUR,nan,nan,HORTICULTURE,KERALA,"leaf roller cater","apply ekalux 2 ml per 1 litre of water",11.8764,75.3738
+KASARGOD,Fruits,2014,8,26,Banana,KASARGOD,"Plant Protection",nan,HORTICULTURE,KERALA,"banana leaf roller","spraying ekalux 2ml 1 litre also refer to contact banana research station kannarathrissur 0484-2699087",12.4915,74.9878
+MANJESHWAR,Fruits,2014,9,11,Banana,KASARGOD,"Plant Protection",nan,HORTICULTURE,KERALA,"banana leaf roller","Recommended to apply gomoothra kantharimulaku misridam",12.4915,74.9878
+KASARGOD,Fruits,2014,9,20,Banana,KASARGOD,"Plant Protection",nan,HORTICULTURE,KERALA,"banana leaf roller attack","apply ekalux 2ml 1 litre",12.4915,74.9878
+KUMBAKONAM,Fruits,2014,2,26,Banana,THANJAVUR,"Plant Protection",KHARIF,HORTICULTURE,TAMILNADU,"leaf roller in banana","- spray profenophos 2mllit of water",10.659,79.2014
+DHAURHARA,Fruits,2014,8,28,Banana,KHERI,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","BANANA-LEAF ROLLER INSECT PROBLEM","SPRAY MONOCROTOPHOS36EC2MLLITWATERCOPPER OXYCHLORID50WP3GMLITWATER",28.1167,80.7167
+TARIKERE,Fruits,2015,3,5,Banana,CHIKMAGALUR,"Plant Protection",nan,HORTICULTURE,KARNATAKA,"leaf roller","mechanical collection and destruction",13.318,75.7739
+TARIKERE,Fruits,2015,7,2,Banana,CHIKMAGALUR,"Plant Protection",nan,HORTICULTURE,KARNATAKA,"banana leaf roller","spray acephate 1gliter",13.318,75.7739
+MANDYA,Fruits,2015,1,8,Banana,MANDYA,"Plant Protection",nan,HORTICULTURE,KARNATAKA,"banana leaf roller","visit to paratoid lab",12.6369,76.7275
+ERATTUPETTA,Fruits,2015,7,7,Banana,KOTTAYAM,"Plant Protection",nan,HORTICULTURE,KERALA,"leaf roller in brinjal","recommended to apply neemazal 2mllit",9.62874,76.6455
+UZHAVOOR,Fruits,2015,8,10,Banana,KOTTAYAM,"Plant Protection",nan,HORTICULTURE,KERALA,"LEAF ROLLER IN BANANA","recommended application of malathion 2mllit",9.62874,76.6455
+THALASSERY,Fruits,2015,10,4,Banana,KANNUR,"Plant Protection",nan,HORTICULTURE,KERALA,"leaf roller","Ekolux 2 ml 1 ltr of water",11.8764,75.3738
+TALIPARAMBA,Fruits,2015,11,20,Banana,KANNUR,"Plant Protection",nan,HORTICULTURE,KERALA,"leaf roller","Ekolux 2 ml  1 ltr of water",11.8764,75.3738
+KOTTARAKKARA,Fruits,2015,1,6,Banana,KOLLAM,"Plant Protection",nan,HORTICULTURE,KERALA,"banana leaf roller attack","apply ekalux 2 ml  litre",8.88724,76.5909
+KRISHNAGIRI,Fruits,2016,2,24,Banana,KRISHNAGIRI,"Plant Protection",RABI,HORTICULTURE,TAMILNADU,"Leaf roller in banana","recommended for spray of Dichlorvos at the rate of 2 ml in 1 litre of water",12.5152,78.0094
+SIRA,Fruits,2017,11,20,Banana,TUMKUR,"Plant Protection",nan,HORTICULTURE,KARNATAKA,"ASKED FOR :BANANA LEAF ROLLER","ASKED FOR :BANANA LEAF ROLLERRECOMMENDED:SPRAY CHLOROPYRIFOS 2MLLT OF WATER",13.3401,77.1006
+KOLLEGALA,Fruits,2017,2,13,Banana,CHAMARAJANAGAR,"Plant Protection",nan,HORTICULTURE,KARNATAKA,"ASKING FOR BANANA LEAF ROLLER","RECOMMENDED:- SPRAY CHLOROPYRIPHOS  2MLLTR OF WATER",11.9544,77.1069
+MOHANLALGANJ,Fruits,2017,9,15,Banana,LUCKNOW,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","leaf roller in Banana ","Triazophos 35 Deltamethrin 1 EC 2mlliter pani me milekr spray kare ",26.8381,80.9346
+MAILAM,Fruits,2024,5,2,Banana,VILLUPPURAM,"Plant Protection",nan,HORTICULTURE,TAMILNADU,"Asked about Leaf roller management in banana crop "," :      : 2     1         ",10.9094,78.3665
+GUNDLUPET,Fruits,2025,1,14,Banana,CHAMARAJANAGAR,"Plant Protection",,HORTICULTURE,KARNATAKA,"HOW TO CONTROL BANANA LEAF ROLLER","Chloropyriphas 20 EC  2 ml",11.9544,77.1069

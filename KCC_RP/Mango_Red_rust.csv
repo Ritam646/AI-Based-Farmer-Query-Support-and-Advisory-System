@@ -1,0 +1,659 @@
+BlockName,Category,Year,Month,Day,Crop,DistrictName,QueryType,Season,Sector,StateName,QueryText,KccAns,latitude,longitude
+"0   ",Fruits,2012,11,29,Mango,"PASHCHIM CHAMPARAN",75,KHARIF,HORTICULTURE,BIHAR,"Red rust IN Mango leaf","Bordeaux mixture 1 or Copper oxychloride 025",27,84.5
+"0   ",Fruits,2012,8,16,Mango,VADODARA,75,JAYAD,HORTICULTURE,GUJARAT,"ask for mango red rust","suggest coc 10gmpump",22.2973,73.1943
+JAORA,Fruits,2012,8,18,Mango,RATLAM,0,JAYAD,HORTICULTURE,"MADHYA PRADESH","how to control  red rust of mango","spray  copper oxichloride   25glitof water",23.5022,74.9552
+JAORA,Fruits,2012,11,9,Mango,RATLAM,75,KHARIF,HORTICULTURE,"MADHYA PRADESH","how to control  red rust in mango ","Bordeaux mixture 06 or Copper oxychloride 025",23.5022,74.9552
+BARSOI,Fruits,2013,1,21,Mango,KATIHAR,"Plant Protection",KHARIF,HORTICULTURE,BIHAR,"red rust in mango","bordiux mixture 1",25.5586,87.6457
+PANDHANA,Fruits,2013,3,26,Mango,"EAST NIMAR",75,RABI,HORTICULTURE,"MADHYA PRADESH"," Red rust in mango ","Bordeaux mixture 1 or Copper oxychloride 025",21.75,76.5833
+GUNA,Fruits,2013,4,12,Mango,GUNA,"Plant Protection",nan,HORTICULTURE,"MADHYA PRADESH","Red rust controle ","Bordeaux mixture 1 or Copper oxychloride 025",24.5002,77.2601
+SHAJAPUR,Fruits,2013,6,26,Mango,SHAJAPUR,"Plant Protection",JAYAD,HORTICULTURE,"MADHYA PRADESH","control of red rust of mango","Bordeaux mixture 1 or Copper oxychloride 025",23.4171,76.6075
+TARANA,Fruits,2013,2,11,Mango,UJJAIN,75,KHARIF,HORTICULTURE,"MADHYA PRADESH","how to control red rust in mango","Bordeaux mixture 1 or Copper oxychloride 025",23.1885,75.7717
+TARANA,Fruits,2013,2,11,Mango,UJJAIN,75,KHARIF,HORTICULTURE,"MADHYA PRADESH","how to control red rust in mango",nan,23.1885,75.7717
+TARANA,Fruits,2013,2,11,Mango,UJJAIN,75,KHARIF,HORTICULTURE,"MADHYA PRADESH","how to control red rust in mango",nan,23.1885,75.7717
+MAHIDPUR,Fruits,2013,6,12,Mango,UJJAIN,nan,nan,HORTICULTURE,"MADHYA PRADESH","mango red rust disease","Red rustBordeaux mixture 1 or Copper oxychloride 025",23.1885,75.7717
+MALHARGARH,Fruits,2013,4,5,Mango,MANDSAUR,"Plant Protection",RABI,HORTICULTURE,"MADHYA PRADESH","Red rust in mango ","Bordeaux mixture 1 or Copper oxychloride 025",24.2628,75.3857
+"0   ",Fruits,2013,1,19,Mango,HARDA,75,KHARIF,HORTICULTURE,"MADHYA PRADESH","Red rust in mango ","Bordeaux mixture 1 or Copper oxychloride 025",22.2428,77.1179
+ODAPADA,Fruits,2013,9,16,Mango,DHENKANAL,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST","COPPEROXYCHLORIDE 2GM 1 LITER",20.8351,85.6022
+BALIKUDA,Fruits,2013,7,13,Mango,JAGATSINGHAPUR,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST","COPPEROXYCHLORIDE 2GM 1 LITER",20.1801,86.3415
+NANGUNERI,Fruits,2013,12,17,Mango,TIRUNELVELI,nan,KHARIF,HORTICULTURE,TAMILNADU,"Red rust in mango","spray copper oxchyloride 2 gmlit of water",8.72031,77.7075
+NILAKOTTAI,Fruits,2013,9,24,Mango,DINDIGUL,"Plant Protection",JAYAD,HORTICULTURE,TAMILNADU,"mango Red rust","spray copper oxychloride 2gm  lit",10.4257,77.8157
+JALPAIGURI,Fruits,2013,8,21,Mango,JALPAIGURI,"Plant Protection",JAYAD,HORTICULTURE,"WEST BENGAL","TO CONTROL OF RED RUST  ZINC DEFECIANCY IN MANGO","SPRAY COPPER-OXYCHLORIDE  4 GMLIT OF WATER THEN CHILETED ZINC 2GMLIT OF WATER",26.6263,88.7335
+RATUA-I,Fruits,2013,8,1,Mango,MALDAH,"Plant Protection",JAYAD,HORTICULTURE,"WEST BENGAL","TO CONTROL OF RED RUST IN MANGO","SPRAY COPPER-OXYCHLORIDE 4 GMLIT OF WATER",25.0977,88.1262
+RANIBUNDH,Fruits,2013,6,23,Mango,BANKURA,"Plant Protection",JAYAD,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","SPRAY COPPER OXYCHLORIDE 50 WP  4 GM LIT OF WATER GIVE 2-3 SPRAY AT 10-12 DAYS OF INTERVALS",23.1324,87.2082
+"0   ",Fruits,2013,2,8,Mango,"EAST MEDINIPUR",75,KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","SPRAY COPPER OXICLORIDE  4GM LIT WATER",22.2906,87.9159
+"0   ",Fruits,2013,1,15,Mango,LOHARDAGA,"Plant Protection",KHARIF,HORTICULTURE,JHARKAND,"red rust in mango","Bordeaux mixture 1 or Copper oxychloride 025",23.477,84.6987
+BIHDIA,Fruits,2014,9,26,Mango,KAMRUP,"Plant Protection",nan,HORTICULTURE,ASSAM,"ASKING ABOUT CONTROL OF RED RUST IN MANGO","ADVICE TIO APPLY BLITOX 50 2GML OF WATER",26.1469,91.2227
+HILSA,Fruits,2014,6,12,Mango,NALANDA,nan,nan,HORTICULTURE,BIHAR,"Red rust","Bordeaux mixture 1 or Copper oxychloride 025",25.1365,85.4437
+BEHEA,Fruits,2014,7,28,Mango,BHOJPUR,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust","Bordeaux mixture 1 or Copper oxychloride 025",25.4501,84.5635
+BARUN,Fruits,2014,4,12,Mango,AURANGABAD,nan,KHARIF,HORTICULTURE,BIHAR,"Red rust","Bordeaux mixture 1 or Copper oxychloride 025",24.8033,84.411
+HAJIPUR,Fruits,2014,5,1,Mango,VAISHALI,"Plant Protection",KHARIF,HORTICULTURE,BIHAR,"Red rust","Bordeaux mixture 1 or Copper oxychloride 025",25.7492,85.3972
+MADHEPUR,Fruits,2014,6,15,Mango,MADHUBANI,nan,nan,HORTICULTURE,BIHAR,"RED RUST IN MANGO","Bordeaux mixture 1 or Copper oxychloride 025",26.3503,86.2296
+NARAYANPUR,Fruits,2014,4,22,Mango,BHAGALPUR,nan,nan,HORTICULTURE,BIHAR,"Red rust control in mango","spray Bordeaux mixture 1 or Copper oxychloride 25 gramliter of water",25.2861,87.1304
+NARAYANPUR,Fruits,2014,6,9,Mango,BHAGALPUR,nan,nan,HORTICULTURE,BIHAR,"Red rust of mango","copper oxicloride 2gl water",25.2861,87.1304
+BIHPUR,Fruits,2014,12,12,Mango,BHAGALPUR,"Bio-Pesticides and Bio-Fertilizers",nan,HORTICULTURE,BIHAR,"red rust","Bordeaux mixture 1 or Copper oxychloride 025",25.2861,87.1304
+CHANNAN,Fruits,2014,5,11,Mango,LAKHISARIA,"Plant Protection",KHARIF,HORTICULTURE,BIHAR,"Red rust","Bordeaux mixture 1 or Copper oxychloride 025",25.6441,85.9065
+DHAMDAHA,Fruits,2014,4,18,Mango,PURNEA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust control in mango","spray Bordeaux mixture 1 or Copper oxychloride 25 gramliter of water",25.7774,87.4731
+BHARGAMA,Fruits,2014,4,13,Mango,ARARIA,"Plant Protection",KHARIF,HORTICULTURE,BIHAR,"Red rust","Bordeaux mixture 1 or Copper oxychloride 025",26.2651,87.3699
+ASTARANGA,Fruits,2014,6,19,Mango,PURI,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red rust","SPRAY COPPER OXYCHLOPRIDE 25 GM 1 LITER WATER",19.8076,85.8253
+LAHUNIPARA,Fruits,2014,12,15,Mango,SUNDARGARH,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE 25GM1 LITER OF WATER",22.0605,83.9359
+BIRMAHARAJPUR,Fruits,2014,11,30,Mango,SONEPUR,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red rust disease of mango","Recommended to spray Copper oxychlorideBlitox 50 2 gm per litre of water to control Red rust disease of mango",20.8454,83.9091
+RAJKANIKA,Fruits,2014,2,3,Mango,KENDRAPARA,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red rust","Bordeaux mixture 1 or Copper oxychloride 025",20.5475,86.5296
+HARABHANGA,Fruits,2014,5,6,Mango,BAUDH,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST","RED RUST : SPRAY Copper oxychloride BLITOX 50 3GM PER LITRE OF WATER",20.8416,84.3213
+KANTAMAL,Fruits,2014,11,19,Mango,BAUDH,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RED RUST IN MANGO:RECOMENDED DOSE OF BLITOX-50 3GM1LIT WATER SPRAY",20.8416,84.3213
+BARGARH,Fruits,2014,2,19,Mango,BARGARH,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red rust","Bordeaux mixture 1 or Copper oxychloride 025",21.232,83.5653
+BARGARH,Fruits,2014,7,2,Mango,BARGARH,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red rust","Bordeaux mixture 1 or Copper oxychloride 025",21.232,83.5653
+BARGARH,Fruits,2014,8,4,Mango,BARGARH,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO PLANT","RECOMMENDED TO SPRAY BORDEAUX MIXTURE 3GM1 LITER OF WATER",21.232,83.5653
+"BARI SADRI",Fruits,2014,10,19,Mango,CHITTAURGARH,"Plant Protection",nan,HORTICULTURE,RAJASTHAN,"RED RUST IN MANGO","Spray of Bordeaux mixture 1 gm or Copper oxychloride 25 gm per lit water",24.5,74.5
+BHADRA,Fruits,2014,5,15,Mango,HANUMANGARH,"Plant Protection",nan,HORTICULTURE,RAJASTHAN,"RED RUST DISEASE CONTROL IN MANGO","SPRAY OF COPPER OXICHLORIDE 45 GM PER 15 LITER WATER",29.366,74.2984
+BURWAN,Fruits,2014,11,23,Mango,MURSHIDABAD,"Plant Protection",RABI,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY COPPER OXYCHLORIDE 50WP  4 GMLITOF WATER",24.1746,88.2721
+SIRAMPUR-UTTARPARA,Fruits,2014,8,22,Mango,HOOGHLY,"Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY COPPER OXYCHLORIED 50WP  4 GM LITOF WATER",22.9099,88.0121
+MAYURESWAR-II,Fruits,2014,10,10,Mango,BIRBHUM,"Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY COPPER OXYCHLORIDE 50WP  4 GM LIT OF WATER",24.0622,87.6983
+SURI-I,Fruits,2014,12,13,Mango,BIRBHUM,"Plant Protection",RABI,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY COPPER OXYCHLORIDE 50WP  4 GMLITOF WATER",24.0622,87.6983
+PURULIA-II,Fruits,2014,12,30,Mango,PURULIA,"Plant Protection",RABI,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY COPPER OXYCHLORIDE 50WP  4 GMLITOF WATER",23.2021,86.3229
+TAMLUK,Fruits,2014,5,15,Mango,"EAST MEDINIPUR","Plant Protection",RABI,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","SPRAY COPPER OXYCHLORIED 50WP  4 GM PER LIT OF WATER",22.2906,87.9159
+Kolkata,Fruits,2014,11,27,Mango,KOLKATTA,"Plant Protection",RABI,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY COPPER OXYCHLORIDE 50 WP  4 GM  LIT OF WATER",22.9965,87.6856
+NAWADIH,Fruits,2014,4,8,Mango,BOKARO,"Plant Protection",RABI,HORTICULTURE,JHARKAND,"Red rust disease in mango leaf","spray in copper oxichloride  2 gmwater",23.6991,85.9911
+GODDA,Fruits,2014,7,8,Mango,GODDA,"Plant Protection",JAYAD,HORTICULTURE,JHARKAND,"Red rust in mango","Red rust Bordeaux mixture 1 or Copper oxychloride 025",24.8646,87.2985
+ALLAVARAM,Fruits,2015,1,3,Mango,"EAST GODAVARI","Plant Protection",nan,HORTICULTURE,"ANDHRA PRADESH","asked about mango red rust","recommended to spray blitax3gmlit",16.9957,81.7154
+JAGGAYYAPETA,Fruits,2015,8,30,Mango,KRISHNA,"Plant Protection",nan,HORTICULTURE,"ANDHRA PRADESH","Red rust OF MANGO","RECAMANDED Bordeaux mixture 1 or Copper oxychloride 025",16.2128,81.0307
+BESTAVARIPETA,Fruits,2015,8,17,Mango,PRAKASAM,"Plant Protection",nan,HORTICULTURE,"ANDHRA PRADESH","Red rust  of mango","RECOMMENDED TO SPRAY COPPER OXY CHLORIDE BLITOX3 GRAMS PER 1LWATER",15.6643,79.4733
+KANIGIRI,Fruits,2015,12,11,Mango,PRAKASAM,"Plant Protection",nan,HORTICULTURE,"ANDHRA PRADESH","Red rust of mango","RECOMMENDED TO SPRAY COPPER OXY CHLORIDE BLITOX 600 GRAMS 200 l water  PER ACRE",15.6643,79.4733
+ATMAKUR,Fruits,2015,8,28,Mango,ANANTPUR,"Plant Protection",nan,HORTICULTURE,"ANDHRA PRADESH","Red rust OF MANGO","Bordeaux mixture 1 or Copper oxychloride 025",13.5747,78.5029
+ATHAMALGOLA,Fruits,2015,8,4,Mango,PATNA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust Bordeaux mixture 1 or Copper oxychloride 025","Red rust Bordeaux mixture 1 or Copper oxychloride 025",25.6093,85.1235
+THARTHARI,Fruits,2015,10,12,Mango,NALANDA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust in Mango tree","SPRAY COPPER OXY CHLORIDE 2 GRAMLITRE OF WATER",25.1365,85.4437
+EKMA,Fruits,2015,7,3,Mango,SARAN,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust in mango leaf","Bordeaux mixture 1 or Copper oxychloride 025",25.9214,84.776
+BETTIAH,Fruits,2015,4,16,Mango,"PASHCHIM CHAMPARAN","Plant Protection",JAYAD,HORTICULTURE,BIHAR,"Red rust","Spray copper oxychloride  2 gram in 1 litre of water",27,84.5
+BAHERI,Fruits,2015,2,18,Mango,DARBHANGA,"Plant Protection",KHARIF,HORTICULTURE,BIHAR,"Red rust  in mango","spray Copper oxychlorideSpray   2 ml in 1 litre of water",26.083,86.0325
+BARAHAT,Fruits,2015,12,9,Mango,BANKA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust in MaNGO","Spray copper oxychloride  2 gram in 1 litter of water",24.8328,86.8161
+SURAJGARHA,Fruits,2015,6,15,Mango,LAKHISARIA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust in mango","Bordeaux mixture 1 or Copper oxychloride 025",25.6441,85.9065
+KADWA,Fruits,2015,1,11,Mango,KATIHAR,"Plant Protection",RABI,HORTICULTURE,BIHAR,"Red rust","Red rust Bordeaux mixture 1 or Copper oxychloride 025",25.5586,87.6457
+KATRA,Fruits,2015,2,24,Mango,MUZAFFARPUR,"Plant Protection",JAYAD,HORTICULTURE,BIHAR,"Red rust","Bordeaux mixture 1 or Copper oxychloride 025",26.1483,85.3316
+REWA,Fruits,2015,7,28,Mango,REWA,"Plant Protection",KHARIF,HORTICULTURE,"MADHYA PRADESH","farmer want to know about control of red rust in mango ","Bordeaux mixture 06 or Copper oxychloride 025",24.7561,81.3811
+BALANGIR,Fruits,2015,6,8,Mango,BALANGIR,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE 3GM1 LITER OF WATER",20.6095,83.1673
+ATHAGAD,Fruits,2015,1,8,Mango,CUTTACK,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE 25GM1 LITER OF WATER",20.4686,85.8792
+KOKASARA,Fruits,2015,6,26,Mango,KALAHANDI,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO LEAF","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE 3GM1 LITER OF WATER TO CONTROL RED RUST IN MANGO LEAF",19.8266,83.0409
+TARBHA,Fruits,2015,8,6,Mango,SONEPUR,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red rust IN MANGO","SPRAY Bordeaux mixture - 1 GRAM PER 1 LITRE WATER",20.8454,83.9091
+ULLUNDA,Fruits,2015,10,27,Mango,SONEPUR,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE 3GM  PLANTOMYCINE 1GM  1 LITE OF WATER",20.8454,83.9091
+RAJKANIKA,Fruits,2015,1,7,Mango,KENDRAPARA,"Plant Protection",nan,HORTICULTURE,ODISHA,"red rust","recommended to spray Copper oxychloride 25gm per liter water",20.5475,86.5296
+RAJKANIKA,Fruits,2015,10,15,Mango,KENDRAPARA,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE 3GM1 LITER OF WATER",20.5475,86.5296
+KHARIAR,Fruits,2015,10,31,Mango,NAWAPARA,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red rust IN MANGO","SPRAY Copper oxychloride  2 GRAM LTR WATER",21.1447,82.9432
+BHUBANESWAR,Fruits,2015,6,26,Mango,KHORDHA,"Plant Protection",nan,HORTICULTURE,ODISHA,"red rust in mango","recommended to spray with blitox 50 2gmltr of water",20.0538,85.5023
+RANAPUR,Fruits,2015,1,15,Mango,NAYAGARH,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE 25GM1 LITER OF WATER",20.2394,85.0507
+BHATLI,Fruits,2015,8,10,Mango,BARGARH,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE 3GM  PLANTOMYCINE 1GM  1 LITER OF WATER",21.232,83.5653
+BHOPALGARH,Fruits,2015,8,22,Mango,JODHPUR,"Plant Protection",KHARIF,HORTICULTURE,RAJASTHAN,"TELL ME RED RUST IN MANGO","SPRAY OF COPPER OXICHLORIDE 3 GM PER LITER WATER",26.2968,73.0351
+MALPURA,Fruits,2015,10,17,Mango,TONK,"Plant Protection",RABI,HORTICULTURE,RAJASTHAN,"TELL ME RED RUST CONTROL IN MANGO","SPRAY OF MENCOZEB 2GM PAR LITAR WATER",26.1223,75.8239
+TARANAGAR,Fruits,2015,7,14,Mango,CHURU,"Plant Protection",KHARIF,HORTICULTURE,RAJASTHAN,"RED RUST IN MANGO","SPRAY OF COPPER OXICHLORIDE 3 GM PER LITER WATER",28.2048,74.6913
+TARANAGAR,Fruits,2015,7,14,Mango,CHURU,"Plant Protection",KHARIF,HORTICULTURE,RAJASTHAN,"RED RUST IN MANGO","SPRAY OF COPPER OXICHLORIDE 3 GM PER LITER WATER",28.2048,74.6913
+HANUMANGARH,Fruits,2015,12,24,Mango,HANUMANGARH,"Plant Protection",RABI,HORTICULTURE,RAJASTHAN,"TELL ME CONTROL OF Red rust","SPRAY OF COPPER OXICHLORIDE 3 GRAM IN ONE LITER WATER",29.366,74.2984
+UPPILIAPURAM,Fruits,2015,9,22,Mango,TIRUCHIRAPPALLI,"Plant Protection",KHARIF,HORTICULTURE,TAMILNADU,"Mango red rust management details","recommended for spray Copper oxy chloride 2 g  lit of water",10.8071,78.6881
+KILVELUR,Fruits,2015,4,24,Mango,NAGAPATTINAM,"Plant Protection",JAYAD,HORTICULTURE,TAMILNADU,"red rust in mango","recommended for spraying copper oxy chloride 25 gram  litre of water",10.6026,79.7619
+BAGHARA,Fruits,2015,12,20,Mango,MUZAFFARNAGAR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mango crop","Copper oxychloride 3 gramliter pani",29.4497,77.7429
+"SARURPUR KHURD",Fruits,2015,10,1,Mango,MEERUT,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","2 gram Copper oxychloride prati litre pani me milakar sprey kare",29.0019,77.768
+HOLAGARH,Fruits,2015,7,27,Mango,ALLAHABAD,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","Copper oxychloride 1 ml3 liter pani ki dar se spray kare",25.4381,81.8338
+SORAON,Fruits,2015,10,10,Mango,ALLAHABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","red rust in mango","To control of red rust in mango Copper oxychloride 50 wp - 25 gramliter spray with water",25.4381,81.8338
+BAHADURPUR,Fruits,2015,12,4,Mango,ALLAHABAD,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","red rust in mango","copper oxicloride - 2 gramliter ka chidkav kre",25.4381,81.8338
+"KASHI VIDYAPEETH",Fruits,2015,11,4,Mango,VARANASI,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","red rust in mango plant","Copper oxychloride 025 ka spray kare",25.3356,83.0076
+"RAM NAGAR",Fruits,2015,8,2,Mango,JAUNPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust in mango","spray copper oxichloride25 gmlitre of water for reg rust in mango",25.7967,82.4889
+"DHARMA PUR",Fruits,2015,8,8,Mango,JAUNPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mango tree","Copper oxychloride 3 gramlitar pani",25.7967,82.4889
+KERAKAT,Fruits,2015,8,11,Mango,JAUNPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mango tree","Copper oxychloride 3gramlitar pani",25.7967,82.4889
+"MACHCHALI SHAHAR",Fruits,2015,9,19,Mango,JAUNPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mango","Copper oxychloride  25 gram litre spray kare",25.7967,82.4889
+"MACHCHALI SHAHAR",Fruits,2015,12,25,Mango,JAUNPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper Oxychloride 50WG 3 gramliter pani",25.7967,82.4889
+DEVKALI,Fruits,2015,7,20,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","red rust ","Bordeaux mixture 06 or Copper oxychloride 025 ka spre kare",25.6035,83.5076
+SADAT,Fruits,2015,7,22,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","RED RUST ","SPRAY Copper oxychloride 025",25.6035,83.5076
+MOHAMMADABAD,Fruits,2015,8,31,Mango,GHAZIPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango tree","Copper oxychloride 3 gramlitarpani Profenofos 40Cypermethrin 4EC25 mllitar pani",25.6035,83.5076
+SADAT,Fruits,2015,12,23,Mango,GHAZIPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust in mango ","Copper oxychloride 25 gramliter ki dar se chidcav kare",25.6035,83.5076
+BRAHMPUR,Fruits,2015,12,4,Mango,GORAKHPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust OF MANGO ","Bordeaux mixture 1 or Copper oxychloride 025",26.6678,83.3642
+"PATHAR DEWA",Fruits,2015,8,16,Mango,DEORIA,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","Copper oxychloride at 25 gmliter pani",26.424,83.7639
+"BHATPAR RANI",Fruits,2015,11,7,Mango,DEORIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","red rust in mango","Copper oxychloride - 25 gramliter paani ka chidkav kre",26.424,83.7639
+BUGAULIYA,Fruits,2015,8,4,Mango,BASTI,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","spray  Copper oxychloride 025 for Red rust in mango",26.8387,82.5351
+TARWA,Fruits,2015,6,27,Mango,AZAMGARH,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mengo","coparoxiclorait 3mllitar pani imidacloropid 178 1mllitar pani",26.0236,83.0293
+AZMATGARH,Fruits,2015,7,21,Mango,AZAMGARH,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mango","Copper Oxychloride 3 gramlitar pani",26.0236,83.0293
+AHIRAULA,Fruits,2015,8,1,Mango,AZAMGARH,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","spray  Copper oxychloride 025 for Red rust in mango",26.0236,83.0293
+AZMATGARH,Fruits,2015,12,5,Mango,AZAMGARH,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust in mango ","copper oxychloride 25 gram  liter",26.0236,83.0293
+SAFIPUR,Fruits,2015,8,12,Mango,UNNAO,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","Copper oxychloride 1 ml3 liter pani ki dar se spray kare",26.5673,80.6198
+BIGHAPUR,Fruits,2015,8,31,Mango,UNNAO,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust in mango","copper oxycloride 25 gram par litre ka chidkav kre",26.5673,80.6198
+MAHRAJGANJ,Fruits,2015,3,18,Mango,RAEBARELI,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","mango me red rust ki problem hai","copper oxi chloride-25 gramliter pani ka spray kare",26.2087,81.2186
+KHIRON,Fruits,2015,7,7,Mango,RAEBARELI,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","spray  Copper oxychloride 025 for Red rust in mango",26.2087,81.2186
+MACHHREHTA,Fruits,2015,7,21,Mango,SITAPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in Mango","Copper Oxychloride 50 WP 25 gram  litre  prayog karen  01 gram streptocyline  litre bhi milaayen",27.5027,80.8335
+HARGAON,Fruits,2015,10,31,Mango,SITAPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","Copper oxychloride  25 gmliter of water",27.5027,80.8335
+"PURA BAZAR",Fruits,2015,7,7,Mango,FAIZABAD,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust in mango","Copper oxychloride  2gm  liter pani",26.7789,82.1427
+MILKIPUR,Fruits,2015,8,11,Mango,FAIZABAD,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","Copper oxychloride at 25 gmliter pani",26.7789,82.1427
+MILKIPUR,Fruits,2015,10,3,Mango,FAIZABAD,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","spray Copper oxychloride 25gmliter water",26.7789,82.1427
+HARIYANGATANGANJ,Fruits,2015,12,18,Mango,FAIZABAD,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust in mango ","Copper oxychloride 025",26.7789,82.1427
+COLONELGANJ,Fruits,2015,9,7,Mango,GONDA,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","MANGO ME RED RUST LAGA HAI ","Bordeaux mixture 1 or Copper oxychloride 025 KA SPRAY KARE",27.1104,81.9239
+BHADAIYA,Fruits,2015,4,17,Mango,SULTANPUR,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","mango me red rust hai","Copper oxychloride 025 1mlliterpani ki dar se spray kare",26.2605,82.2381
+KUREBHAR,Fruits,2015,5,21,Mango,SULTANPUR,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","red rust in mango","coparoxiclorait 3gramlitar pani",26.2605,82.2381
+LAMBHUA,Fruits,2015,7,20,Mango,SULTANPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","aam me red rust lagi hei","Copper oxychloride 2 gm  litre pani me millakar spray kre",26.2605,82.2381
+KUREBHAR,Fruits,2015,8,5,Mango,SULTANPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust IN MANGO","Copper oxychloride  25 GM LITER PANI",26.2605,82.2381
+AMROHA,Fruits,2015,6,15,Mango,"JYOTIBA PHULE NAGAR","Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust in mango","Bordeaux mixture 1 or Copper oxychloride 025 ki spray kre",28.865,78.4696
+CHAHNIYA,Fruits,2015,8,16,Mango,CHANDAULI,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","Copper oxychloride at 25 gmliter pani",25.1257,83.2495
+CHAHNIYA,Fruits,2015,9,28,Mango,CHANDAULI,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust  in mango","2 gram Copper oxychloride prati litre pani me milaakar sprey kare",25.1257,83.2495
+GYANPUR,Fruits,2015,9,12,Mango,"SANT RAVIDAS NAGAR BHADOHI","Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","Copper oxychloride 1 ml3 liter pani ki dar se spray kare",27.1303,80.8597
+"DOHRI GHAT",Fruits,2015,7,8,Mango,MAU,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","Copper oxychloride  2 gm liter pani",26.0391,83.4986
+NAUTANWA,Fruits,2015,6,15,Mango,MAHARAHGANJ,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","MANGO ME RED RUST","Bordeaux mixture 1 or Copper oxychloride 025 KI SPRAY KRE",27.1303,80.8597
+"NEBUA NAURANGIA",Fruits,2015,8,13,Mango,"KUSHI NAGAR","Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","2 graam Copper oxychloride prati litre paani me milaakar sprey kare",27.1303,80.8597
+"JAHANGIR GANJ",Fruits,2015,6,10,Mango,"AMBEDKAR NAGAR","Fertilizer Use and Availability",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust in mango","Bordeaux mixture 1 or Copper oxychloride 025 ki spray kre",26.4046,82.6065
+Jamo,Fruits,2015,7,26,Mango,"AMETHI  Shahu Ji Maharaj","Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust OF Mango","2 ML Copper oxychloride prati litre paani me milaakar sprey kare",27.1303,80.8597
+LALGOLA,Fruits,2015,5,6,Mango,MURSHIDABAD,"Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  CHLOROTHALONIL 75 WP   2 GM   LIT OF WATER",24.1746,88.2721
+BHAGAWANGOLA-I,Fruits,2015,7,27,Mango,MURSHIDABAD,"Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY COPPER OXYCHLORIDE 50WP  4 GMLITOF WATER",24.1746,88.2721
+BURWAN,Fruits,2015,9,7,Mango,MURSHIDABAD,"Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY COPPER OXYCHLORIDE 50WP  4 GMLITOF WATER",24.1746,88.2721
+KALIGANJ,Fruits,2015,6,30,Mango,NADIA,"Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY CHLOROTHALONIL 75 WP  2 GMLT OF WATER",23.4847,88.5567
+HASNABAD,Fruits,2015,4,5,Mango,"NORTH 24 PARGANAS","Plant Protection",RABI,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  CHLORPYRIPHOS 20 EC  25 ML   LIT OF WATER",22.6927,88.6626
+HASNABAD,Fruits,2015,4,5,Mango,"NORTH 24 PARGANAS","Plant Protection",RABI,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   4 GM  LIT OF WATER",22.6927,88.6626
+BONGAON,Fruits,2015,5,17,Mango,"NORTH 24 PARGANAS","Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   4 GM  LIT OF WATER",22.6927,88.6626
+BISHNUPUR-II,Fruits,2015,5,15,Mango,"SOUTH 24 PARGANAS","Plant Protection",JAYAD,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  CARBENDAZIM 50 WP  1 MG   LIT OF WATER",22.1777,88.5308
+BALLY-JAGACHA,Fruits,2015,6,29,Mango,HOWRAH,"Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  CHLOROTHALONIL 75 WP   2 GM   LIT OF WATER",22.5736,88.3251
+SALANPUR,Fruits,2015,4,29,Mango,BARDDHAMAN,"Plant Protection",JAYAD,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  CHLOROTHALONIL 75 WP   2 GM   LIT OF WATER",23.25,87.75
+KALNA-I,Fruits,2015,5,14,Mango,BARDDHAMAN,"Plant Protection",JAYAD,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   4 GM  LIT OF WATER",23.25,87.75
+RAIPUR,Fruits,2015,10,19,Mango,DEHRADUN,"Plant Protection",RABI,HORTICULTURE,UTTARAKHAND,"Red rust in mango","spray coppr oxi chloride25 gmlitre of water for Red rust in mango",30.3256,78.0437
+GARLADINNE,Fruits,2016,4,22,Mango,ANANTPUR,"Plant Protection",JAYAD,HORTICULTURE,"ANDHRA PRADESH","Mango Red rust and suckling pest","RECOMMENDED TO SPRAY COPPER OXY CHLORIDE  600 GRAMS PER ACRE and  DIMETHOATE  400 ML  ACRE 200 LITER WATER",13.5747,78.5029
+LAKKIREDDIPALLE,Fruits,2016,3,20,Mango,"Y S R ","Plant Protection",nan,HORTICULTURE,"ANDHRA PRADESH","MANGO RED RUST","COC   600 GRACRE IN 200 LT WATER",15.9241,80.1864
+MASAURHI,Fruits,2016,4,26,Mango,PATNA,"Plant Protection",JAYAD,HORTICULTURE,BIHAR,"Red rust","Bordeaux mixture 1GMLITRE WATER or Copper oxychloride 2GMLITRE WATER",25.6093,85.1235
+BIKRAM,Fruits,2016,7,15,Mango,PATNA,"Plant Protection",KHARIF,HORTICULTURE,BIHAR,"Red rust in mango","spray Copper oxychloride 2gmlitre water red leaf",25.6093,85.1235
+SHAHPUR,Fruits,2016,2,21,Mango,BHOJPUR,"Plant Protection",JAYAD,HORTICULTURE,BIHAR,"RED RUST","Copper oxychloride 2GM 1LIT WATER",25.4501,84.5635
+KOILWAR,Fruits,2016,7,31,Mango,BHOJPUR,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust in Mango","Red rust in Mango - Spray copper oxycloride  2 gram in 1 litre of water",25.4501,84.5635
+ALAMNAGAR,Fruits,2016,7,22,Mango,MADHEPURA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust","Red rustBordeaux mixture 1 or Copper oxychloride 025",25.7806,86.9365
+GAURABAURAM,Fruits,2016,7,9,Mango,DARBHANGA,"Plant Protection",KHARIF,HORTICULTURE,BIHAR,"mango red rust","Red rustBordeaux mixture 1 or Copper oxychloride 025",26.083,86.0325
+KALYANPUR,Fruits,2016,6,10,Mango,SAMASTIPUR,"Plant Protection",JAYAD,HORTICULTURE,BIHAR,"RED RUST IN MANGO","COPPER OXYCHLORIDE 2 GM IN 1 LIT WATER",25.7748,85.8672
+BIRPUR,Fruits,2016,3,15,Mango,BEGUSARAI,"Plant Protection",KHARIF,HORTICULTURE,BIHAR,"Red rust","Spray copper oxychloride  2 gram in 1 litter of water",25.5125,86.0883
+PARBATTA,Fruits,2016,1,30,Mango,KHAGARIA,"Plant Protection",RABI,HORTICULTURE,BIHAR,"RED RUST OF MANGO","SPRAY COPPER OXYCHLORIDE 2 GRAMLITRE",25.4931,86.6982
+BANKA,Fruits,2016,7,10,Mango,BANKA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust in Mango","Red rust in Mango - Bordeaux mixture 1 or Copper oxychloride 025",24.8328,86.8161
+BARHAT,Fruits,2016,8,18,Mango,JAMUI,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust","Bordeaux mixture 1 or Copper oxychloride 025",24.7563,86.3011
+MOTIPUR,Fruits,2016,5,5,Mango,MUZAFFARPUR,"Plant Protection",JAYAD,HORTICULTURE,BIHAR,"Red rust","Bordeaux mixture 1 or Copper oxychloride 025",26.1483,85.3316
+KATRA,Fruits,2016,7,5,Mango,MUZAFFARPUR,"Plant Protection",KHARIF,HORTICULTURE,BIHAR,"Red rust in Mango","Red rust in Mango - Spray copper oxychloride  2 gram in 1 litre of water",26.1483,85.3316
+BARIGARH,Fruits,2016,10,3,Mango,CHHATARPUR,"Plant Protection",KHARIF,HORTICULTURE,"MADHYA PRADESH","Red rust","Red rust    Bordeaux mixture 1 or Copper oxychloride 025",24.7606,79.6782
+MANGALVEDHE,Fruits,2016,1,7,Mango,SOLAPUR,"Plant Protection",RABI,HORTICULTURE,MAHARASHTRA,"RED RUST ON MANGO ","SPRAY BLUE COPPER 30 GM 15 Liter of Water",17.8499,75.2763
+PUINTALA,Fruits,2016,3,8,Mango,BALANGIR,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE 30GM  STREPTOCYCLIN 15GM  10 LITER OF WATER",20.6095,83.1673
+JUNAGARH,Fruits,2016,4,16,Mango,KALAHANDI,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE 30GM  STREPTOCYCLIN 15GM  10 LITER OF WATER",19.8266,83.0409
+SARASKANA,Fruits,2016,8,12,Mango,MAYURBHANJ,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RED RUST IN MANGO  - SPRAY COPPER OXYCHLORIDE 3 GRAM IN ONE LITRE OF WATER",21.9156,86.3962
+SARASKANA,Fruits,2016,10,1,Mango,MAYURBHANJ,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","SPRAY RED RUST IN MANGO COPPER OXYCHLORIDE 25 GRAM IN 1 LITRE WATER",21.9156,86.3962
+SARASKANA,Fruits,2016,12,24,Mango,MAYURBHANJ,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE 3GM  PLANTOMYCINE 1GM  1 LITER OF WATER",21.9156,86.3962
+BRAHMAGIRI,Fruits,2016,4,14,Mango,PURI,"Plant Protection",RABI,HORTICULTURE,ODISHA,"RED RUST DISEASES IN MANGO","SPRAY COPPER OXYCHLORIDE  2 GRAM  LIT OF WATER",19.8076,85.8253
+BAMRA,Fruits,2016,8,5,Mango,SAMBALPUR,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RED RUST IN MANGO - SPRAY 3 GRAM COPPER OXYCHLORIDE IN ONE LITRE OF WATER",21.5571,84.1529
+BAMRA,Fruits,2016,8,5,Mango,SAMBALPUR,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RED RUST IN MANGO - SPRAY COPPER OXYCHLORIDE 3 GRAM IN ONE LITRE OF WATER",21.5571,84.1529
+BHADRAK,Fruits,2016,12,14,Mango,BHADRAK,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO LEAF","RED RUST IN MANGO LEAFSPRAY CUPPEROXICHLORIDE 30 GRAM PER 10 LTR WATER",20.9854,86.5934
+KOREI,Fruits,2016,8,19,Mango,JAJAPUR,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY RIDOMIL GOLD  25 GRAM  1 LIT OF WATER",20.8278,86.3798
+PADAMPUR,Fruits,2016,8,19,Mango,BARGARH,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RED RUST IN MANGO - SPRAY 3 GRAM COPPER OXYCHLORIDE IN ONE LITRE OF WATER",21.232,83.5653
+GAISILET,Fruits,2016,9,27,Mango,BARGARH,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE 30GM  STREPTOCYCLIN 15GM  10 LITER OF WATER",21.232,83.5653
+ASIND,Fruits,2016,1,3,Mango,BHILWARA,"Plant Protection",RABI,HORTICULTURE,RAJASTHAN,"TELL ME CONTROL OF RED RUST IN MANGO ","SPRAY OF COPPER OXICHLORIDE 45 GM  STREPTOCYCLIN 2 GM PER 15 LITER WATER",25.4891,74.3301
+PHAGI,Fruits,2016,3,24,Mango,JAIPUR,"Plant Protection",JAYAD,HORTICULTURE,RAJASTHAN,"TELL ME CONTROL OF RED RUST IN MANGO ","SPRAY OF COPPER OXICHLORIDE 45 GM  STREPTOCYCLIN 2 GM PER 15 LITER WATER",26.9155,75.819
+CHAKSU,Fruits,2016,8,3,Mango,JAIPUR,"Plant Protection",nan,HORTICULTURE,RAJASTHAN,"TELL ME CONTROL OF RED RUST DISEASE IN MANGO","SPRAY OF COPPER OXICHLORIDE 45 GM  STREPTOCYCLIN 2 GM PER 15 LITER WATER",26.9155,75.819
+LADPURA,Fruits,2016,3,22,Mango,KOTA,"Plant Protection",nan,HORTICULTURE,RAJASTHAN,"TELL ME RED RUST CONTROL IN MANGO","SPRAY OF COPPER OXICHLORIDE 3 GM PER LITER WATER",25.1737,75.8574
+HINDAUN,Fruits,2016,8,11,Mango,KARAULI,"Plant Protection",KHARIF,HORTICULTURE,RAJASTHAN,"TELL ME RED RUST IN MANGO PLANT","SPRAY OF COPPER OXICHLORIDE 3 GM PER LITER WATER",26.4531,77.016
+VEMBAKKAM,Fruits,2016,6,1,Mango,TIRUVANNAMALAI,"Plant Protection",JAYAD,HORTICULTURE,TAMILNADU,"Red rust management for mango","recommended for spray  Copper oxychloride 2 ml lit",12.4289,78.9992
+ALWARTHIRUNAGARI,Fruits,2016,5,3,Mango,THOOTHUKUDI,"Plant Protection",JAYAD,HORTICULTURE,TAMILNADU,"asking about  Mango Red rust management","recommended for  spray Copper oxy chloride 25 g  lit of water",8.8457,77.9938
+NAGAL,Fruits,2016,6,1,Mango,SAHARANPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust of mango","aam ki fasal me Copper oxychloride 025 ka spray kare",29.9857,77.5041
+"BALLIA KHERI",Fruits,2016,9,4,Mango,SAHARANPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control rRed rust of Mango","copper oxychloride 25 gmliter paani ke saath spray kare",29.9857,77.5041
+MORNA,Fruits,2016,3,4,Mango,MUZAFFARNAGAR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mango","Bordeaux mixture 1gram1 li pani me spray kare",29.4497,77.7429
+SHAMLI,Fruits,2016,10,9,Mango,MUZAFFARNAGAR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","mango ki patti me red rust lag gaya hi","copar oxi kloraeid 25 gram dawa  liter pani milakar sprey kare",29.4497,77.7429
+MACHRA,Fruits,2016,4,15,Mango,MEERUT,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","red rust control in mango","Bordeaux mixture 1 or Copper oxychloride 025",29.0019,77.768
+DAURALA,Fruits,2016,10,16,Mango,MEERUT,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rustcontrol in mango","copper oxy chloride  25 gram prti liter of water",29.0019,77.768
+ATRAULI,Fruits,2016,4,14,Mango,ALIGARH,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","AAM KI PATTI PAR RED RUST LAGA HI","KOPAR OXI KLORAEID 2 GRAM DAWA  LITER PANI MILAKAR SPREY KARE",27.8761,78.1358
+KYARA,Fruits,2016,6,11,Mango,BAREILLY,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","mango ki patti par  red rust laga hua hi","copar oxi kloraeid 25 gram dawa ki liter pani milakar sprey kare",28.4582,79.4047
+MION,Fruits,2016,12,18,Mango,BADAUN,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango tree","Kisan bhai ap aam ke ped par Copper Oxychloride 50 WP  25 gram aur Dimethoate 30 EC  2 mili prati litr panee ki dar se ghol banakar chhidkaw kare",28.0649,79.0438
+"KHUDAGANJ KATRA",Fruits,2016,9,30,Mango,SHAHJAHANPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust  TRMAITE ","Copper oxychloride 025 SPARY",27.9129,79.7476
+BISALPUR,Fruits,2016,1,12,Mango,PILIBHIT,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","red rust in mango ","Copper oxychloride 25 gramliter pani ki dar se chidcav kare",28.4947,80.1076
+NAWABGANJ,Fruits,2016,1,17,Mango,FARRUKHABAD,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Asking about Red rust in mango ","spray of spray Wettable sulphur 2 gram  lit water",27.4362,79.4895
+HANDIA,Fruits,2016,7,19,Mango,ALLAHABAD,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango ","spray of Copper oxychloride 25 gramliter of water",25.4381,81.8338
+JALAUN,Fruits,2016,7,5,Mango,JALAUN,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper oxychloride 25-3 gramlitar pani",26.1049,79.3919
+BARAGAON,Fruits,2016,1,7,Mango,VARANASI,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper oxychloride 3 gramliter pani Imidachloprid 178 SL 1mlacre",25.3356,83.0076
+JAMALPUR,Fruits,2016,4,9,Mango,MIRZAPUR,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Red rust problem of mango","Copper oxychloride 2 gram liter pani",24.9317,82.628
+CHHANVEY,Fruits,2016,7,15,Mango,MIRZAPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust in mango","sprey Bordeaux mixture 1 or Copper oxychloride 025",24.9317,82.628
+DOBHI,Fruits,2016,1,23,Mango,JAUNPUR,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper Oxychloride 50 WP 3 gramlitar pani Monocrotophos 36 SL 25 mllitar pani",25.7967,82.4889
+"MUFTI GANJ",Fruits,2016,2,7,Mango,JAUNPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper oxychloride 3 gramlitar pani Acetamiprid 20 SP1 gram2-3 litar pani",25.7967,82.4889
+"SUJAN GANJ",Fruits,2016,3,6,Mango,JAUNPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","Bordeaux mixture 15 gram1 li pani me spray kare",25.7967,82.4889
+"MACHCHALI SHAHAR",Fruits,2016,4,8,Mango,JAUNPUR,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","red rust  insect problem in mango","Monocrotophos 36 SL 2 mllitar pani Copper Oxychloride 50 WP 25-3 gramlitar pani",25.7967,82.4889
+"MUFTI GANJ",Fruits,2016,5,1,Mango,JAUNPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mango","Copper oxychloride 50WP 1gram1 li pani me spray kare",25.7967,82.4889
+"SHAH GANJ",Fruits,2016,7,19,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","Copper Oxychloride 50 WP  25 gramlitr ki dar se spray kare",25.7967,82.4889
+BARASATHI,Fruits,2016,8,11,Mango,JAUNPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust in mango plant","kisan bhai copper oxy chlorid ka 2mllitr panee ke sath spray kare",25.7967,82.4889
+"SUJAN GANJ",Fruits,2016,9,24,Mango,JAUNPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","CONTROL OF RED RUST IN MANGO","copper oxychloride 25 gmliter paani ke saath spray kare",25.7967,82.4889
+"MAHARAJ GANJ",Fruits,2016,10,6,Mango,JAUNPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of Red Rust in mango","copper oxychloride 25 gmliter paani ke saath spray kare",25.7967,82.4889
+KERAKAT,Fruits,2016,10,13,Mango,JAUNPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust disease in mango","Copper Oxychloride 50 WP 3 gramlitar pani",25.7967,82.4889
+"MACHCHALI SHAHAR",Fruits,2016,11,25,Mango,JAUNPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","red rust disease in mango","Copper Oxychloride 50 WP 3 gramlitar pani ",25.7967,82.4889
+SADAT,Fruits,2016,1,30,Mango,GHAZIPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust mango disease ","Mancozeb 75 WP 25 gramliter ki dar se chidcav kare",25.6035,83.5076
+VARACHAKWAR,Fruits,2016,2,10,Mango,GHAZIPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper oxychloride 025 3 gramlitar pani ",25.6035,83.5076
+VIRNO,Fruits,2016,2,22,Mango,GHAZIPUR,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper Oxychloride 50 WP 3 gramacre",25.6035,83.5076
+SADAT,Fruits,2016,3,16,Mango,GHAZIPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","ama me red rust hai ","copper oxichloride  2 gramliter ke hisab se use kre",25.6035,83.5076
+REVATIPUR,Fruits,2016,8,13,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper oxychloride 3 gramlitar pani",25.6035,83.5076
+GHAZIPUR,Fruits,2016,9,11,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","Copper oxychloride 2 gram liter pani me ghol banakar sprey kare",25.6035,83.5076
+SADAT,Fruits,2016,11,24,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango tree","Kisan bhai ap aam ke ped ke thale me 200 gram carbofuran dalkar gudai karke sinchai kare",25.6035,83.5076
+SIAR,Fruits,2016,6,9,Mango,BALLIA,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","aam ki pattiyo me red rust lag gaya hi","copar oxi kloraeid -25 gram dawa  liter pani milakar sprey kare",25.875,84.121
+PANDAH,Fruits,2016,6,11,Mango,BALLIA,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango ","spray of copper Oxychloride 50 WP 25 gramliter of water",25.875,84.121
+GARWAR,Fruits,2016,10,3,Mango,BALLIA,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in Mango","copper oxychloride 25 gmliter paani ke saath spray kare",25.875,84.121
+"RAMPUR KARKHANA",Fruits,2016,6,14,Mango,DEORIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","Copper Oxychloride 50 WP  2 gramlitr ki dar se spray kare",26.424,83.7639
+HARRAIYA,Fruits,2016,4,29,Mango,BASTI,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Red rust Cephaleuros virescens in mango","Copper oxychloride 025 25 mililiter ke hisaab se ghol banaa kar spre kren",26.8387,82.5351
+TARWA,Fruits,2016,5,27,Mango,AZAMGARH,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper oxychloride 3 gramlitar pani",26.0236,83.0293
+"RANI KI SARAI",Fruits,2016,6,19,Mango,AZAMGARH,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust: Cephaleuros virescens in mango ","spray of copper Oxychloride 50 WP 25 gramliter of water",26.0236,83.0293
+MAL,Fruits,2016,1,10,Mango,LUCKNOW,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","red rust disease in mango","Copper Oxychloride 50 WP 3 gramlitar pani  Profenophos 40 Cypermethrin 4 EC 25 mllitar pani",26.8381,80.9346
+HILAULI,Fruits,2016,1,9,Mango,UNNAO,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","2 gram Copper oxychloride prati litre paani me milaakar sprey kare",26.5673,80.6198
+"SIKANDARPUR KARAN",Fruits,2016,1,17,Mango,UNNAO,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","RED RUST IN MANGO ","Copper oxychloride 025 KA SPRAY KARE",26.5673,80.6198
+AURAS,Fruits,2016,3,13,Mango,UNNAO,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","kissan bhai Carbendazim 1 gram 1 li pani me spray kare",26.5673,80.6198
+DIH,Fruits,2016,10,22,Mango,RAEBARELI,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","red rust disease in mango","Copper Oxychloride 50 WP 3 gramacre",26.2087,81.2186
+DIH,Fruits,2016,10,22,Mango,RAEBARELI,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust disease in mango","Copper Oxychloride 50 WP 3 gramlitar pani",26.2087,81.2186
+GONDLAMAU,Fruits,2016,11,9,Mango,SITAPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Control of red rust","copper oxychloride 2 gmliter paani ke saath chidkaw kare",27.5027,80.8335
+PHOOLBEHAR,Fruits,2016,7,27,Mango,KHERI,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper oxychloride 3 gramlitar pani",28.1167,80.7167
+TARUN,Fruits,2016,4,22,Mango,FAIZABAD,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","red rust in mango ","Copper oxychloride 2 gm  litre",26.7789,82.1427
+BIKAPUR,Fruits,2016,6,7,Mango,FAIZABAD,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper oxychloride  25 gramlitar pani Monocrotophos 36 SL 25 mllitar pani",26.7789,82.1427
+SOHAWAL,Fruits,2016,9,25,Mango,FAIZABAD,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper oxychloride 3 gramlitar pani",26.7789,82.1427
+BIKAPUR,Fruits,2016,11,10,Mango,FAIZABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango plant","Kisan bhai ap aam ke ped par Copper Oxychloride 50 WP  25 gramlitr ki dar se spray kare",26.7789,82.1427
+"AKHAND NAGAR",Fruits,2016,9,24,Mango,SULTANPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","aam ki patti me red rust laga gaya hi","copar oxi kloraeid 25 gram dawa  liter pani milakar sprey kare",26.2605,82.2381
+RAMNAGAR,Fruits,2016,2,27,Mango,BARABANKI,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Red rust in mango ","Copper oxychloride 25 gramliter ki dar se chidcav kare",26.9421,81.3856
+"BANI KODAR",Fruits,2016,5,4,Mango,BARABANKI,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","pleas give information of Red rust ","1- Copper oxychloride 0252- Methyl demeton  2 mllit will control the pests",26.9421,81.3856
+HAIDARGARH,Fruits,2016,8,14,Mango,BARABANKI,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust in mango crop","copper oxiclorid ki 2 gramlitar pani ke sath sprey kare",26.9421,81.3856
+DARIYABAD,Fruits,2016,9,26,Mango,BARABANKI,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of red rust in mango","copper oxychloride 25 gmliter paani ke saath spray kare",26.9421,81.3856
+TUNDLA,Fruits,2016,11,5,Mango,FIROZABAD,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","aam ki aptti me red rust laga hi","kopar oxi kloraeid-25 gram dawa  liter pani milakar sprey kare",27.1942,78.4605
+MAU,Fruits,2016,6,28,Mango,CHITRAKOOT,"Agriculture Mechanization",JAYAD,HORTICULTURE,"UTTAR PRADESH","mango ki nayi patti par red rust lag lata hi","copar oxi kloraeid 25 gram dawa  liter pani milakar sprey kare",25.2171,81.1046
+"MOHAMMADABAD GOHANA",Fruits,2016,8,22,Mango,MAU,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust control in mango","spray copper oxichloraide 50 wp  2 gram  liter  of water",26.0391,83.4986
+PARTAWAL,Fruits,2016,7,5,Mango,MAHARAHGANJ,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","Bordeaux mixture 11 li pani me spray kare",27.1303,80.8597
+PANIYARA,Fruits,2016,9,18,Mango,MAHARAHGANJ,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Anthracnose and stalk end-rot and Red rust in mango","spray Carbendazim 1gliter or Chlorothalonil 2 gliter Copper oxychloride 3 gliter",27.1303,80.8597
+KASAYA,Fruits,2016,1,22,Mango,"KUSHI NAGAR","Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust in mango ","Copper oxychloride 25 gramliter pani ki dar se chidcav kare",27.1303,80.8597
+SUKRAULI,Fruits,2016,8,24,Mango,"KUSHI NAGAR","Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of Red rust in Mango","copper oxychloride 25 gmliter paani ke saath spray kare",27.1303,80.8597
+FAZILNAGAR,Fruits,2016,10,14,Mango,"KUSHI NAGAR","Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust disease in paddy","Copper Oxychloride 50 WP 3 gramlitar pani",27.1303,80.8597
+BANSI,Fruits,2016,3,27,Mango,"SIDDHARTH NAGAR","Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","AAM KE PATTIYO PAR RED RUST LAGA HI","KOPAR OXI KLORAEID 25 GRAM DAWA LITER PANI MILAKAR SPREY KARE",27.2753,83.0676
+"JALAL PUR",Fruits,2016,4,17,Mango,"AMBEDKAR NAGAR","Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Red rust Cephaleuros virescens control in mango","Copper oxychloride 025 25 mili liter ke hisab se ghol bana kar spre kren",26.4046,82.6065
+BASKHARI,Fruits,2016,7,12,Mango,"AMBEDKAR NAGAR","Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust disease in mango","Copper Oxychloride 50 WP 3 gramlitar pani",26.4046,82.6065
+BASKHARI,Fruits,2016,8,27,Mango,"AMBEDKAR NAGAR","Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango ","Bordeaux mixture 1 or Copper oxychloride 025",26.4046,82.6065
+UN,Fruits,2016,3,4,Mango,"SHAMLI PRABUDH NAGER","Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mango","Bordeaux mixture 1gram1 li pani me spray kare",27.1303,80.8597
+RANINAGAR-I,Fruits,2016,12,11,Mango,MURSHIDABAD,"Plant Protection",RABI,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   4 GM  LIT OF WATER",24.1746,88.2721
+SANDESHKHALI-I,Fruits,2016,2,9,Mango,"NORTH 24 PARGANAS","Plant Protection",RABI,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   4 GM  LIT OF WATER",22.6927,88.6626
+BARASAT-I,Fruits,2016,10,30,Mango,"NORTH 24 PARGANAS","Plant Protection",RABI,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY COPPER OXYCHLORIDE 50WP  4 GMLITOF WATER",22.6927,88.6626
+GOGHAT-II,Fruits,2016,5,6,Mango,HOOGHLY,"Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   4 GM  LITER OF WATER",22.9099,88.0121
+BARABANI,Fruits,2016,9,29,Mango,BARDDHAMAN,"Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY COPPER OXYCHLORIDE 50WP  4 GMLITOF WATER",23.25,87.75
+RAMPURHAT-II,Fruits,2016,6,15,Mango,BIRBHUM,"Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   4 GM  LIT OF WATER",24.0622,87.6983
+RAMPURHAT-II,Fruits,2016,7,23,Mango,BIRBHUM,"Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   4 GM  LIT OF WATER",24.0622,87.6983
+SONAMUKHI,Fruits,2016,10,11,Mango,BANKURA,"Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY METALAXYL 8  MANCOZEB 64 72WP  25 GM  LITOF WATER",23.1324,87.2082
+NIRSA,Fruits,2016,2,27,Mango,DHANBAD,"Plant Protection",JAYAD,HORTICULTURE,JHARKAND,"Red rust","Bordeaux mixture 1 or Copper oxychloride 025",23.7953,86.431
+KHUNTI,Fruits,2016,3,27,Mango,KHUNTI,"Plant Protection",JAYAD,HORTICULTURE,JHARKAND,"Red rust of mango","Bordeaux mixture 1 or Copper oxychloride 025",22.9282,85.2814
+BHAGWANPUR,Fruits,2016,9,9,Mango,HARIDWAR,"Plant Protection",KHARIF,HORTICULTURE,UTTARAKHAND,"Red rust in mango ","spray Copper oxychloride 50 wp  25 gmliter of water",29.9384,78.1453
+"NARENDRA NAGAR",Fruits,2016,6,27,Mango,"TEHRI GARWAL","Plant Protection",KHARIF,HORTICULTURE,UTTARAKHAND,"Red rust in mango ","copper oxichloraide 50 wp  3 gmliter of water",29.9451,78.1527
+KODAVALUR,Fruits,2017,5,16,Mango,NELLORE,"Plant Protection",nan,HORTICULTURE,"ANDHRA PRADESH","MANGO RED RUST MANAGEMENT","RECOMMENDED  TO  COPPER OXY CHLORIDE  3 GRAMS  1 LITRE OF WATER",14.4494,79.9874
+BELAGANJ,Fruits,2017,8,30,Mango,GAYA,"Plant Protection",nan,HORTICULTURE,BIHAR,"RED RUST IN MANGO","Bordeaux mixture 06 or Copper oxychloride 025",24.6794,85.0116
+CHHAPRA,Fruits,2017,12,9,Mango,SARAN,"Plant Protection",RABI,HORTICULTURE,BIHAR,"red rust of mango plant","Spray copper oxychloride  2 gram in 1 litre of water",25.9214,84.776
+PANDAUL,Fruits,2017,10,25,Mango,MADHUBANI,"Plant Protection",KHARIF,HORTICULTURE,BIHAR,"Red rust","Bordeaux mixture 1 or Copper oxychloride 025",26.3503,86.2296
+POLOSARA,Fruits,2017,9,15,Mango,GANJAM,"Plant Protection",KHARIF,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE 50WPBLUE COPPER  25 GRAM  1 LIT OF WATER",19.609,84.7081
+GOLAMUNDA,Fruits,2017,12,27,Mango,KALAHANDI,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORDIE 3GM1 LITER OF WATER TO CONTROL RED RUST IN MANGO",19.8266,83.0409
+PIPILI,Fruits,2017,7,14,Mango,PURI,"Plant Protection",KHARIF,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE  25 GRAM  1 LIT OF WATER",19.8076,85.8253
+BHADRAK,Fruits,2017,6,17,Mango,BHADRAK,"Plant Protection",nan,HORTICULTURE,ODISHA,"red rust in mango","spray copper oxychloride 25 gram in 1 litre water",20.9854,86.5934
+KENDRAPADA,Fruits,2017,12,5,Mango,KENDRAPARA,"Plant Protection",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE 2GM  PLANTOMYCIN 1GM  1 LITER OF WATER",20.5475,86.5296
+BANARPAL,Fruits,2017,8,5,Mango,ANUGUL,"Plant Protection",KHARIF,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE  25 GRAM  1 LIT OF WATER",20.8411,85.0804
+NAKUR,Fruits,2017,6,15,Mango,SAHARANPUR,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","aam ki patti par dhabbared rust ban raha hai","kopar oxi kloraeid 2 gram dawa liter pani milakar sprey kare",29.9857,77.5041
+MORNA,Fruits,2017,8,10,Mango,MUZAFFARNAGAR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of red rust in Mango","Copper oxychloride 2 gmliter paani ke saath chidkaw kare",29.4497,77.7429
+MORNA,Fruits,2017,8,10,Mango,MUZAFFARNAGAR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of red rust in Mango","Copper oxychloride 2 gmliter paani ke saath chidkaw kare",29.4497,77.7429
+MORNA,Fruits,2017,8,10,Mango,MUZAFFARNAGAR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango tree ","copar oxycloride 2 gramliter pani ki dar se spray kare",29.4497,77.7429
+MUZAFFARNAGAR,Fruits,2017,10,11,Mango,MUZAFFARNAGAR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust  thrips problem on mango plant","spray Buprofezin 25 SC 2 ml hexaconazole 5 2 mlliter of water on mango plant",29.4497,77.7429
+BUDHANA,Fruits,2017,10,24,Mango,MUZAFFARNAGAR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","information about red rust mango","Dear former use to  Copper Oxychloride 50 WP  25gliter water splash in the field",29.4497,77.7429
+BAHERI,Fruits,2017,10,3,Mango,BAREILLY,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust in mango ","Spray of Copper Oxychloride 50 WP 25 gramliter of water",28.4582,79.4047
+BHADPURA,Fruits,2017,10,5,Mango,BAREILLY,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust disease problem in Mango plant ","Copper Oxychloride 50 WP 25 gram  litre pani ke sath spray kare",28.4582,79.4047
+SINDHAULI,Fruits,2017,12,14,Mango,SHAHJAHANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango tree","Kisan bhai ap aam ke ped par Copper Oxychloride 50 WP  25 gramlitr ki dar se spray kare",27.9129,79.7476
+KARCHHANA,Fruits,2017,11,5,Mango,ALLAHABAD,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust ","Dear former use to  Copper Oxychloride 50 WP  25gliter water splash in the field",25.4381,81.8338
+MAHEVA,Fruits,2017,9,5,Mango,JALAUN,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of red rust in Mango","Copper oxychloride 2 gmliter paani ke saath chidkaw kare",26.1049,79.3919
+KADAURA,Fruits,2017,10,6,Mango,JALAUN,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust","Bordeaux mixture 1 or Copper oxychloride 025",26.1049,79.3919
+KAMASIN,Fruits,2017,5,1,Mango,BANDA,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Asking about red rust in mango ","spray of Copper Oxychloride 50 WP 2 gram  lit water",25.4439,80.5595
+JAMALPUR,Fruits,2017,11,7,Mango,MIRZAPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","red rust in mango plant ","1Copper Oxychloride 50 WP  25 gram dava prati litar pani 2 streptocyclin 1 gram dava prati 10 litar pani me gholkar spre kare",24.9317,82.628
+"RAM PUR",Fruits,2017,1,28,Mango,JAUNPUR,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","aam me red rust laga hai","aam me red rust lagne pe Bordeaux mixture 1 or Copper oxychloride 025 prayog kare",25.7967,82.4889
+DOBHI,Fruits,2017,2,5,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango tree","Kisan bhai ap aam ke ped par  Copper Oxychloride 50 WP  25 gramlitr panee ki dar se ghol banakar spray kare",25.7967,82.4889
+MARIYAHU,Fruits,2017,2,11,Mango,JAUNPUR,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","aam me red rust laga hai","aam me red rust lagne pe Bordeaux mixture 1 Athawa Copper oxychloride 025 ka prayog kare",25.7967,82.4889
+"RAM NAGAR",Fruits,2017,5,30,Mango,JAUNPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust control in mango plant ","spray copper oxichloraide 50 wp  25 gram  liter  of water",25.7967,82.4889
+"BADLA PUR",Fruits,2017,6,14,Mango,JAUNPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","am ki patti par red rust lag gaya hai","kopar oxi kloraeid 2 gram dawa liter pani milakar sprey kare",25.7967,82.4889
+BAKSHA,Fruits,2017,8,4,Mango,JAUNPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust disease in paddy","Copper Oxychloride 50 WP 3 gramlitar pani",25.7967,82.4889
+"RAM NAGAR",Fruits,2017,8,18,Mango,JAUNPUR,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","mangoaam ki patti par red rust laga hai","kopar oxi kloraeid 2 gram dawa liter pani milakar sprey kare",25.7967,82.4889
+MARIYAHU,Fruits,2017,8,20,Mango,JAUNPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust control in mango ","copper oxycloraid 50 2gmliter paani me mila kar spray kare",25.7967,82.4889
+"KARANJA KALA",Fruits,2017,10,16,Mango,JAUNPUR,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","aam me red rust laga hai","Copper oxychloride 025 ka prayog kare",25.7967,82.4889
+"KARANJA KALA",Fruits,2017,10,17,Mango,JAUNPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust disease in mango","Copper Oxychloride 50 WP 3 gramacre",25.7967,82.4889
+"KARANJA KALA",Fruits,2017,10,17,Mango,JAUNPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust disease in mango","Copper Oxychloride 50 WP 3gramlitar pani",25.7967,82.4889
+SADAT,Fruits,2017,10,16,Mango,GHAZIPUR,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","aam me red rust laga hai ","Copper oxychloride 025 ka prayog kare",25.6035,83.5076
+NAGRA,Fruits,2017,6,26,Mango,BALLIA,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust problem in mango ","copper oxy chloride  25 gram prti liter of water",25.875,84.121
+"GAURI BAZAR",Fruits,2017,1,16,Mango,DEORIA,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper oxychloride 3 gramlitar pani",26.424,83.7639
+BHAGALPUR,Fruits,2017,8,2,Mango,DEORIA,"Nutrient Management",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust in mango crop","Copper oxychloride ki matraa- 4 gram  litar pani ke sath milaakar sprey kare",26.424,83.7639
+JAHANAGANJ,Fruits,2017,3,17,Mango,AZAMGARH,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","RED RUST OF MANGO CROP ","COPER OXY CHLORIDE 50  WP  25 GRAM PRATI LITAR PANI ME GHOLKAR SPRE KARE",26.0236,83.0293
+TARWA,Fruits,2017,4,20,Mango,AZAMGARH,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust in mango ","Spray of Copper Oxychloride 50 WP 25 gramliter of water",26.0236,83.0293
+LALGANJ,Fruits,2017,6,25,Mango,AZAMGARH,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of Red rust in Mango","Copper oxychloride 2 gmliter paani ke saath chidkaw kare",26.0236,83.0293
+LALGANJ,Fruits,2017,9,7,Mango,AZAMGARH,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of red rust in Mango","Copper oxychloride 2 gmliter paani ke saath chidkaw kare",26.0236,83.0293
+MAL,Fruits,2017,5,14,Mango,LUCKNOW,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Red rust control in Mango crop ","kisan bhai aap aam me Copper oxychloride 2 gram dva prati litre pani  me milakar spray kare ",26.8381,80.9346
+MAL,Fruits,2017,7,4,Mango,LUCKNOW,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango ","Spray of Copper Oxychloride 50 WP 25 gramliter of water",26.8381,80.9346
+DHAURHARA,Fruits,2017,9,17,Mango,KHERI,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust in mango ","Spray of Copper Oxychloride 50 WP 25 gramliter of water",28.1167,80.7167
+CHHAPIA,Fruits,2017,1,20,Mango,GONDA,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","mango ki patti par red rust lag raha hai","copar oxi kloraeid-2 gram dawa  liter pani milakar sprey kare",27.1104,81.9239
+RUPAIDEEH,Fruits,2017,6,17,Mango,GONDA,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper oxychloride 3 gramlitar pani",27.1104,81.9239
+MUJEHANA,Fruits,2017,6,20,Mango,GONDA,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust in mango","kisan bhai aam meCopper Oxychloride 50 WP 25 gramliter ka spray kare",27.1104,81.9239
+WAZIRGANJ,Fruits,2017,8,26,Mango,GONDA,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust control in mango ","Copper Oxychloride 50 WP 25 gramliter water ",27.1104,81.9239
+BABHANJOT,Fruits,2017,10,22,Mango,GONDA,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper oxychloride 3 gramlitar pani Imidacloprid 178 SL 1gramliter pani",27.1104,81.9239
+MAHASI,Fruits,2017,11,12,Mango,BAHRAICH,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust of mango","copper oxychlorider 50 WP 2-3  gram liter pani ka ghol banaker spray kare",27.7344,81.4765
+KADIPUR,Fruits,2017,2,26,Mango,SULTANPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","red rust disease in mango","Copper Oxychloride 50 WP 3gramlitar pani Monocrotophos 36 SL 2mllitar pani",26.2605,82.2381
+PPKAMAICHA,Fruits,2017,8,6,Mango,SULTANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","aam me red rust ki janakari de","kisan bhai aap aam me Copper Oxychloride 50 WP 2 gm liter pani ke sath spray kare",26.2605,82.2381
+HATHWANT,Fruits,2017,8,27,Mango,FIROZABAD,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of Red rust in Mango","Copper oxychloride 2 gmliter paani ke saath chidkaw kare",27.1942,78.4605
+EKA,Fruits,2017,10,21,Mango,FIROZABAD,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust CONTROL IN MANGO ","copper oxycloraid 50 2gmliter paani me mila kar spray kare",27.1942,78.4605
+KARWI,Fruits,2017,1,29,Mango,CHITRAKOOT,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper oxychloride 3 gramlitar pani",25.2171,81.1046
+DEEGH,Fruits,2017,1,24,Mango,"SANT RAVIDAS NAGAR BHADOHI","Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","red rust disease in mango","Copper oxychloride 3 gramlitar pani",27.1303,80.8597
+BHADOHI,Fruits,2017,7,10,Mango,"SANT RAVIDAS NAGAR BHADOHI","Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of red rust in Mango","Copper oxychloride 2 gmliter paani ke saath chidkaw kare",27.1303,80.8597
+PADRAUNA,Fruits,2017,9,28,Mango,"KUSHI NAGAR","Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust CONTROL IN MANGO ","Copper Oxychloride 50 WP 2 5 GRAMLITER KA CHIDKAV KARE",27.1303,80.8597
+BHITI,Fruits,2017,6,24,Mango,"AMBEDKAR NAGAR","Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust in mango ","Spray of Copper Oxychloride 50 WP 25 gramliter of water",26.4046,82.6065
+Jagdishpur,Fruits,2017,1,10,Mango,"AMETHI  Shahu Ji Maharaj","Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust in  mango ","Bordeaux mixture 1 ka spray",27.1303,80.8597
+RATUA-II,Fruits,2017,1,26,Mango,MALDAH,"Plant Protection",RABI,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  CARBENDAZIM 50 WP  1 GM   LIT OF WATER",25.0977,88.1262
+RAJARHAT,Fruits,2017,1,5,Mango,"NORTH 24 PARGANAS","Plant Protection",RABI,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO LEAF","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   25 GM  LIT OF WATER",22.6927,88.6626
+HINGALGANJ,Fruits,2017,8,17,Mango,"NORTH 24 PARGANAS","Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  CHLOROTHALONIL 75 WP   2 GM   LIT OF WATER",22.6927,88.6626
+MANDIRBAZAR,Fruits,2017,8,11,Mango,"SOUTH 24 PARGANAS","Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   4 GM  LIT OF WATER",22.1777,88.5308
+GOGHAT-I,Fruits,2017,5,16,Mango,HOOGHLY,"Plant Protection",JAYAD,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   4 GM  LIT OF WATER",22.9099,88.0121
+MEMARI-1,Fruits,2017,9,27,Mango,BARDDHAMAN,"Plant Protection",KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   4 GM  LIT OF WATER",23.25,87.75
+BOLPUR-SRINIKETAN,Fruits,2017,5,20,Mango,BIRBHUM,"Plant Protection",nan,HORTICULTURE,"WEST BENGAL","ASKING ABOUT CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   4 GM  LIT OF WATER",24.0622,87.6983
+GARBETA-II,Fruits,2017,5,19,Mango,"WEST MEDINIPUR","Plant Protection",JAYAD,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO LEAF","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   25 GM  LIT OF WATER",22.2789,87.9223
+SAKTI,Fruits,2017,2,19,Mango,JANJGIR-CHAMPA,"Plant Protection",RABI,HORTICULTURE,CHHATTISGARH,"Farmer needs information regarding red rust attack in mango  crop","Recommended for to control of fungal attack use copper oxy chloride 50 WP Blue copper or Dhanucop or Copper Oxychloride 50 WG blueget 727 sumil chemicals 40 gram and streptocyclin 2 gram at 15 liter of water",21.9864,82.5537
+TOPCHANCHI,Fruits,2017,6,14,Mango,DHANBAD,"Nutrient Management",nan,HORTICULTURE,JHARKAND,"red rust in mango","spray Copper oxychloride 025",23.7953,86.431
+MEHRMA,Fruits,2017,4,9,Mango,GODDA,"Plant Protection",RABI,HORTICULTURE,JHARKAND,"Red rust","Spray copper oxycloride  2 gram in 1 litter of water",24.8646,87.2985
+BAHADRABAD,Fruits,2017,4,21,Mango,HARIDWAR,"Plant Protection",JAYAD,HORTICULTURE,UTTARAKHAND,"Red rust  aphid problem in mango plant","spray Copper oxychloride 2 gram  Phosphamidon 40 SL 2 mllitre of water on mango plant",29.9384,78.1453
+BELCHCHI,Fruits,2018,6,22,Mango,PATNA,"Plant Protection",nan,HORTICULTURE,BIHAR,"RED RUST IN MANGO","Spray copper oxychlorid  2 gramliter of water",25.6093,85.1235
+FORBESGANJ,Fruits,2018,4,8,Mango,ARARIA,"Plant Protection",nan,HORTICULTURE,BIHAR,"red rust in mango","Bordeaux mixture 1",26.2651,87.3699
+JAMAI,Fruits,2018,4,22,Mango,CHHINDWARA,"Cultural Practices",JAYAD,HORTICULTURE,"MADHYA PRADESH","farmer want to know information about how to control of red rust in mango crop","Recommended for to control of red rust use copper oxy chloride 40 gm at 15 liter of water",22.2072,78.7988
+PATNAGARH,Fruits,2018,1,6,Mango,BALANGIR,"Cultural Practices",nan,HORTICULTURE,ODISHA,"RED RUST IN MANGO","RECOMMENDED TO SPRAY COPPER OXYCHLORIDE  2 ML IN 1 LIT OF WATER",20.6095,83.1673
+SANGANER,Fruits,2018,7,28,Mango,JAIPUR,"Plant Protection",KHARIF,HORTICULTURE,RAJASTHAN,"TELL ME RED RUST CONTROL IN MANGO","RED RUST CONTROL IN MANGO Bordeaux mixture 1 or Copper oxychloride 025",26.9155,75.819
+JHALRAPATAN,Fruits,2018,9,5,Mango,JHALAWAR,"Plant Protection",KHARIF,HORTICULTURE,RAJASTHAN,"TELL ME RED RUST CONTROLE IN MANGO ","SPRAY OF COPPER OXICHLORIDE 3 GM PER LITER WATER",24.3132,76.5221
+DAMKHAUDA,Fruits,2018,2,23,Mango,BAREILLY,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Red rust control in mango ","Dear former use to Copper Oxychloride 50 WP  25gliter water splash in the field",28.4582,79.4047
+AMAULI,Fruits,2018,9,4,Mango,FATEHPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust control of mango","KISAN BHAI-Copper Oxychloride 50 WP KI 2 GRAM  LITER PAANI KI DAR SE SPRAY KARE",25.8348,80.9155
+VIJAYIPUR,Fruits,2018,9,28,Mango,FATEHPUR,nan,0,HORTICULTURE,"UTTAR PRADESH","Control of Red rust in Mango","Dear farmer spray of Copper oxychloride 50  600 gramacre with 200 liter of water",25.8348,80.9155
+"RAM PUR",Fruits,2018,1,12,Mango,JAUNPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust in mango ","Spray of Copper Oxychloride 50 WP 25 gramliter of water",25.7967,82.4889
+"SHAH GANJ",Fruits,2018,7,23,Mango,JAUNPUR,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Aam red rust laga hai","Copper oxychloride 025 ka chidecav kare",25.7967,82.4889
+DOBHI,Fruits,2018,8,11,Mango,JAUNPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of red rust in Mango","Dear farmer Spray of Copper oxychloride 50 wp  3 gmliter of water",25.7967,82.4889
+"SUJAN GANJ",Fruits,2018,12,18,Mango,JAUNPUR,"Plant Protection",0,HORTICULTURE,"UTTAR PRADESH","Control of Red rust in Mango ","Dear farmer spray of Copper oxychloride 50  3 gram liter of water",25.7967,82.4889
+KASIMABAD,Fruits,2018,6,15,Mango,GHAZIPUR,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust diseases control in mango plant","kisan bhai aap apni fasal par Bordeaux mixture 1 or Copper oxychloride 025 2 gram liter pani ke sath spray kre",25.6035,83.5076
+MANIHARI,Fruits,2018,10,7,Mango,GHAZIPUR,nan,0,HORTICULTURE,"UTTAR PRADESH","Control of red rust in Mango","Dear farmer spray of Copper oxychloride 50  3 gram liter of water",25.6035,83.5076
+SIAR,Fruits,2018,2,28,Mango,BALLIA,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Red rust in mongo ","Dear former use to  Copper Oxychloride 50 WP  25gliter water splash in the field",25.875,84.121
+GARWAR,Fruits,2018,4,22,Mango,BALLIA,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Control of Red rust in Mango","Copper oxychloride 3 gmliter paani ke saath chidkaw kare",25.875,84.121
+NAGRA,Fruits,2018,6,2,Mango,BALLIA,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","red rust in mango ","Spray of Copper Oxychloride 50 WP 25 gramliter of water",25.875,84.121
+HANUMANGANJ,Fruits,2018,8,11,Mango,BALLIA,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust control infarmetion of mango ","spray copper oxichloraide 50 wp  25 gram  liter  of water",25.875,84.121
+PIPRAICH,Fruits,2018,1,27,Mango,GORAKHPUR,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","red rust in mango","kishan bhai aap aaam ki fasal me capur oxcicloraid 2gram prati liter ka chidkav karaye",26.6678,83.3642
+"SALTAUA GOPAL PUR",Fruits,2018,5,24,Mango,BASTI,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust of mango ","1Coper oxychloraid 50  WP 25 gram dava prati litar pani 2  imidakloprid 178  SL  05 mililitar dava prati litar pani me gholakr spre kare",26.8387,82.5351
+PAWAI,Fruits,2018,3,13,Mango,AZAMGARH,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mango","kisan bhai aap Copper Oxychloride 50 WP  25 gram prati litre pani ki dar se spray kare",26.0236,83.0293
+MEHNAGAR,Fruits,2018,8,12,Mango,AZAMGARH,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of Red rust in Mango","Dear farmer Spray of Copper oxychloride 50 wp  3 gmliter of water",26.0236,83.0293
+THEKMA,Fruits,2018,10,15,Mango,AZAMGARH,nan,0,HORTICULTURE,"UTTAR PRADESH","Control of red rust in Mango plant","Dear farmer spray of Copper oxychloride 50  3 gram liter of water",26.0236,83.0293
+CHINHAT,Fruits,2018,12,22,Mango,LUCKNOW,"Plant Protection",0,HORTICULTURE,"UTTAR PRADESH","Control of red rust in Mango","Dear farmer spray of Mancozeb 75 WP   3 gram per liter of water",26.8381,80.9346
+HASANGANJ,Fruits,2018,3,26,Mango,UNNAO,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Aam ke patte me Red rust laga hai","Bordeaux mixture 1 or Copper oxychloride 025",26.5673,80.6198
+HASANGANJ,Fruits,2018,3,28,Mango,UNNAO,"Plant Protection",RABI,HORTICULTURE,"UTTAR PRADESH","Control of red rust in mango","Copper oxychloride 3 gmliter paani ke saath chidkaw kare",26.5673,80.6198
+PURWA,Fruits,2018,7,6,Mango,UNNAO,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of Red rust in Mango","Dear farmer Spray of Copper oxychloride 50 wp  3 gmliter of water",26.5673,80.6198
+NAWABGANJ,Fruits,2018,7,7,Mango,UNNAO,"Nutrient Management",KHARIF,HORTICULTURE,"UTTAR PRADESH","information for control red rust in mango crop","copper oxicloried ki matraa- 2 gram  litar pani ke sath milaakar sprey kare",26.5673,80.6198
+GONDLAMAU,Fruits,2018,2,23,Mango,SITAPUR,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Control of Red rust in Mango","Copper oxychloride 3 gmliter paani ke saath chidkaw kare",27.5027,80.8335
+"RAMPUR MATHURA",Fruits,2018,8,26,Mango,SITAPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in Mango Plant","Copper Oxychloride 50 WP  25 gramlitr panee ki dar se ghol banakar chhidkaw kare",27.5027,80.8335
+ISANAGAR,Fruits,2018,7,25,Mango,KHERI,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","red rust control of mango ","spray copper oxichloraide 50 wp  2 gram  liter  of water",28.1167,80.7167
+BIJUWA,Fruits,2018,10,20,Mango,KHERI,nan,0,HORTICULTURE,"UTTAR PRADESH","information for red rust control in mango crop","kisan bhai aap copper oxicloried ki matraa- 2 gram  litar pani ke sath milaakar sprey kare",28.1167,80.7167
+BIKAPUR,Fruits,2018,8,15,Mango,FAIZABAD,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of red rust in Mango","Dear farmer Spray of Copper oxychloride 50 wp  3 gmliter of water",26.7789,82.1427
+MIHINPURWA,Fruits,2018,8,28,Mango,BAHRAICH,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of red rust in Mango","Dear farmer Spray of Copper oxychloride 50 wp  3 gmliter of water",27.7344,81.4765
+KADIPUR,Fruits,2018,2,2,Mango,SULTANPUR,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango","Copper Oxychloride 50 WP 3 gramacre",26.2605,82.2381
+FATEHPUR,Fruits,2018,9,17,Mango,BARABANKI,nan,0,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mango ","Copper oxychloride 50 wp  2gm  liter pani me ghol ke prayog kre ",26.9421,81.3856
+CHANDAULI,Fruits,2018,3,25,Mango,CHANDAULI,"Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","red rust and powdery mildew problem ","Copper Oxychloride 50 WP 25 gram liter of water",25.1257,83.2495
+SAKALDIHA,Fruits,2018,7,2,Mango,CHANDAULI,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mango ","Dear farmer use to  Copper Oxychloride 50 WP 25gliter water splash in the field",25.1257,83.2495
+BERAHANI,Fruits,2018,7,31,Mango,CHANDAULI,"Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mango","Copper oxychloride 50 WP 25 gram1 li pani me spray kare",25.1257,83.2495
+BHADOHI,Fruits,2018,5,16,Mango,"SANT RAVIDAS NAGAR BHADOHI","Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","Control of Red rust in Mango","Copper oxychloride 3 gmliter paani ke saath chidkaw kare",27.1303,80.8597
+PHARENDA,Fruits,2018,12,23,Mango,MAHARAHGANJ,"Plant Protection",0,HORTICULTURE,"UTTAR PRADESH","Control of red rust in Mango","Dear farmer spray of Copper oxychloride 50  3 gram liter of water",27.1303,80.8597
+ITWA,Fruits,2018,6,30,Mango,"SIDDHARTH NAGAR","Plant Protection",KHARIF,HORTICULTURE,"UTTAR PRADESH","Control of red rust in Mango","Dear farmer Spray of Copper oxychloride 50 wp  3 gmliter of water",27.2753,83.0676
+KATEHARI,Fruits,2018,5,11,Mango,"AMBEDKAR NAGAR","Plant Protection",JAYAD,HORTICULTURE,"UTTAR PRADESH","RED RUST IN MANGO","kisan bhai aam me Copper Oxychloride 50 WP 25 gramliter ka  spray kare",26.4046,82.6065
+BASKHARI,Fruits,2018,7,13,Mango,"AMBEDKAR NAGAR",Weather,nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango","Copper Oxychloride  25 gramliter pani me spre kare",26.4046,82.6065
+DEGANGA,Fruits,2018,12,6,Mango,"NORTH 24 PARGANAS","Plant Protection",0,HORTICULTURE,"WEST BENGAL","CONTROL OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   4 GM  LIT OF WATER",22.6927,88.6626
+MANTESWAR,Fruits,2018,4,19,Mango,BARDDHAMAN,"Plant Protection",nan,HORTICULTURE,"WEST BENGAL","CONTROL  OF RED RUST IN MANGO","RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   4 GM  LIT OF WATER",23.25,87.75
+NALA,Fruits,2018,1,12,Mango,JAMTARA,"Plant Protection",KHARIF,HORTICULTURE,JHARKAND,"RED RUST","SPRAY COPUROXICHLORIDE 25GMLIT OF WATER FOR MANGO",23.9802,86.9244
+DELHI,Fruits,2018,9,15,Mango,"North East Delhi Seelampur","Plant Protection",KHARIF,HORTICULTURE,DELHI,"TELL ME CONTROL RED RUST IN MANGO PLANT","SPRAY OF COPPER OXICHLORIDE 3 GM PER LITER WATER",28.6274,77.1717
+HILSA,Fruits,2019,8,29,Mango,NALANDA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust disease in mango leaves ",nan,25.1365,85.4437
+DINARA,Fruits,2019,10,14,Mango,ROHTAS,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust in mango",nan,24.9394,84.0197
+GURARU,Fruits,2019,8,13,Mango,GAYA,"Plant Protection",nan,HORTICULTURE,BIHAR,"RED RUST IN MANGO ",nan,24.6794,85.0116
+"BANKEY BAZAR",Fruits,2019,10,31,Mango,GAYA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust ATTACK IN  MANGO",nan,24.6794,85.0116
+CHHAPRA,Fruits,2019,2,14,Mango,SARAN,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust mango","spray Copper oxychloride  2 gm per liter of water",25.9214,84.776
+AMNOUR,Fruits,2019,8,10,Mango,SARAN,"Plant Protection",nan,HORTICULTURE,BIHAR,"RED RUST OF MANGO LEAF ",nan,25.9214,84.776
+SIWAN,Fruits,2019,7,28,Mango,SIWAN,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust in mango ",nan,26.131,84.3911
+ARERAJ,Fruits,2019,7,16,Mango,"PURBA CHAMPARAN","Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust in mango",nan,26.5833,84.8333
+MADHUBAN,Fruits,2019,8,21,Mango,"PURBA CHAMPARAN","Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust in mango ",nan,26.5833,84.8333
+MAJHAULIA,Fruits,2019,6,11,Mango,"PASHCHIM CHAMPARAN","Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust in mango ",nan,27,84.5
+"PATEDHI BELSAR",Fruits,2019,8,6,Mango,VAISHALI,"Plant Protection",nan,HORTICULTURE,BIHAR,"Bark borer in mango plant and Red rust disease in mango leaves ",nan,25.7492,85.3972
+DARBHANGA,Fruits,2019,9,3,Mango,DARBHANGA,"Plant Protection",nan,HORTICULTURE,BIHAR,"RED RUST IN MANGO ",nan,26.083,86.0325
+DARBHANGA,Fruits,2019,9,3,Mango,DARBHANGA,"Plant Protection",nan,HORTICULTURE,BIHAR,"RED RUST IN MANGO ",nan,26.083,86.0325
+SAMASTIPUR,Fruits,2019,4,17,Mango,SAMASTIPUR,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust in mango",nan,25.7748,85.8672
+KHANPUR,Fruits,2019,6,18,Mango,SAMASTIPUR,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust in Mango",nan,25.7748,85.8672
+KALYANPUR,Fruits,2019,7,18,Mango,SAMASTIPUR,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust disease in mango leaves ",nan,25.7748,85.8672
+CHANDAN,Fruits,2019,3,16,Mango,BANKA,"Plant Protection",nan,HORTICULTURE,BIHAR,"RED RUST IN MANGO ",nan,24.8328,86.8161
+SURAJGARHA,Fruits,2019,7,15,Mango,LAKHISARIA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust in mango",nan,25.6441,85.9065
+PIPARIYA,Fruits,2019,8,19,Mango,LAKHISARIA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust disease in mango leaves ",nan,25.6441,85.9065
+BANMANKHI,Fruits,2019,6,17,Mango,PURNEA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red Rust disease in mango",nan,25.7774,87.4731
+RAMGARH,Fruits,2019,7,16,Mango,KAIMUR,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust disease in mango",nan,24.9755,83.5768
+KURHANI,Fruits,2019,8,19,Mango,MUZAFFARPUR,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust in mango",nan,26.1483,85.3316
+MULTAI,Fruits,2019,3,6,Mango,BETUL,"Plant Protection",nan,HORTICULTURE,"MADHYA PRADESH","Farmer needs information regarding control measure of red rust disease in mango  crop",nan,21.8797,77.8754
+OSMANABAD,Fruits,2019,1,19,Mango,OSMANABAD,"Seeds and Planting Material",nan,HORTICULTURE,MAHARASHTRA,"Red rust IN MANGO   WHIVH FUNGICIDE  USED   ","Bordeaux mixture 1 or Copper oxychloride 025 USED  IN   MANGO CULTIVATION  ",18.2822,76.0588
+NUAGAON,Fruits,2019,4,1,Mango,SUNDARGARH,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red Rust Disease in Mango",nan,22.0605,83.9359
+BOUDH,Fruits,2019,5,1,Mango,BAUDH,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red rust in mango",nan,20.8416,84.3213
+CHOHTAN,Fruits,2019,1,3,Mango,BARMER,"Plant Protection",nan,HORTICULTURE,RAJASTHAN,"TELL ME ABOUT CONTROL OF RED RUST IN MANGO ","SPRAY OF COPPER OXICHLORIDE 3 GM PER LITER WATER ",25.5815,71.1925
+MUGAIYUR,Fruits,2019,10,28,Mango,VILLUPPURAM,"Plant Protection",nan,HORTICULTURE,TAMILNADU,"Asked about Red rust management in Mango ",nan,10.9094,78.3665
+DUKLI,Fruits,2019,2,2,Mango,"WEST TRIPURA","Plant Protection",nan,HORTICULTURE,TRIPURA,"Asking about preventive measures for red rust disease in mango tree","I suggest him to spray BLITOX 50 WP or RIDOMIL GOLD  300gm per acre in a 200 litres of water 15gmliter of water Repeat the spray if symptoms appears again after 10 days of spray",23.9153,91.3879
+"MAWANA KALAN",Fruits,2019,2,1,Mango,MEERUT,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust problem of mango","Kisan Bhai You can make copper oxychloride 50 WP  50 WP 2-3 grams  liters of water and make a spray",29.0019,77.768
+IGLAS,Fruits,2019,7,14,Mango,ALIGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in mango tree",nan,27.8761,78.1358
+MAJHGAWAN,Fruits,2019,10,1,Mango,BAREILLY,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","How to control Red rust in mango plant",nan,28.4582,79.4047
+"BHAWAL KHERA",Fruits,2019,9,11,Mango,SHAHJAHANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH"," information for Red rust control in mango crop",nan,27.9129,79.7476
+KAIMGANJ,Fruits,2019,2,20,Mango,FARRUKHABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust disease management in Mango ","Dear farmer spray Copper oxychloride 50 WP  25 gram litre of water ",27.4362,79.4895
+MAHEWA,Fruits,2019,7,17,Mango,ETAWAH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of red rust in Mango",nan,26.7156,79.0917
+PHULPUR,Fruits,2019,7,27,Mango,ALLAHABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango crop ",nan,25.4381,81.8338
+HOLAGARH,Fruits,2019,8,17,Mango,ALLAHABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of red rust in Mango",nan,25.4381,81.8338
+HARAHUA,Fruits,2019,8,13,Mango,VARANASI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in mango plant",nan,25.3356,83.0076
+"KASHI VIDYAPEETH",Fruits,2019,12,29,Mango,VARANASI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","information about Red rust  leaf insect control in mango crop",nan,25.3356,83.0076
+NARAINPUR,Fruits,2019,1,25,Mango,MIRZAPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","control of Red rust in mango","Dear farmer use to  Copper Oxychloride 50 WP  25gliter water splash in the field",24.9317,82.628
+BAKSHA,Fruits,2019,3,17,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Control of red rust disease in Mango tree ",nan,25.7967,82.4889
+"MAHARAJ GANJ",Fruits,2019,3,20,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in Mango",nan,25.7967,82.4889
+"BADLA PUR",Fruits,2019,8,24,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango tree ",nan,25.7967,82.4889
+MANIHARI,Fruits,2019,4,28,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango crop ",nan,25.6035,83.5076
+VIRNO,Fruits,2019,6,6,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust disease in mango ",nan,25.6035,83.5076
+GHAZIPUR,Fruits,2019,9,23,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in mango plant",nan,25.6035,83.5076
+GHAZIPUR,Fruits,2019,9,23,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about  Red rust Disease control in Mango plant",nan,25.6035,83.5076
+NAGRA,Fruits,2019,3,4,Mango,BALLIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Control of Red rust disease in Mango",nan,25.875,84.121
+NAGRA,Fruits,2019,7,1,Mango,BALLIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of Red rust in Mango",nan,25.875,84.121
+SIAR,Fruits,2019,10,6,Mango,BALLIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust Disease in Mango tree",nan,25.875,84.121
+NAGRA,Fruits,2019,10,26,Mango,BALLIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of red rust in Mango  ",nan,25.875,84.121
+SALEMPUR,Fruits,2019,8,5,Mango,DEORIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mango tree ",nan,26.424,83.7639
+"GAURI BAZAR",Fruits,2019,8,23,Mango,DEORIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of Red rust in Mango",nan,26.424,83.7639
+"GAURI BAZAR",Fruits,2019,8,23,Mango,DEORIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of red rust in Mango ",nan,26.424,83.7639
+"RAMPUR KARKHANA",Fruits,2019,9,21,Mango,DEORIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust problem in Mango plant ",nan,26.424,83.7639
+"PATHAR DEWA",Fruits,2019,10,29,Mango,DEORIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","information  about red rust control in mango crop",nan,26.424,83.7639
+"VIKRAM JOT",Fruits,2019,1,21,Mango,BASTI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","red rust problem in mango","Dear farmer use to  Copper Oxychloride 50 WP  25gliter water splash in the field",26.8387,82.5351
+BUGAULIYA,Fruits,2019,8,13,Mango,BASTI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of red rust in Mango ",nan,26.8387,82.5351
+LALGANJ,Fruits,2019,1,27,Mango,AZAMGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Control of red rust in Mango plant","Dear farmer spray of Copper oxychloride 50  3 gram liter of water ",26.0236,83.0293
+MOHAMMADPUR,Fruits,2019,2,8,Mango,AZAMGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust Disease problem in Mango plant ","Copper oxychloride 50 WP 02 gram  litre pani ke sath milaakar spray kare ",26.0236,83.0293
+AZMATGARH,Fruits,2019,2,16,Mango,AZAMGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in Manga","Spray Copper Oxychloride50WP  2 gram  litre of water",26.0236,83.0293
+PALHANA,Fruits,2019,7,19,Mango,AZAMGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in mango tree",nan,26.0236,83.0293
+LALGANJ,Fruits,2019,9,22,Mango,AZAMGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in mango plant",nan,26.0236,83.0293
+MOHANLALGANJ,Fruits,2019,1,21,Mango,LUCKNOW,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust in Mango","Dear farmer spray of Copper oxychloride 50  3 gram liter of water ",26.8381,80.9346
+SAROJANINAGAR,Fruits,2019,8,8,Mango,LUCKNOW,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","About red rust problem in mango ",nan,26.8381,80.9346
+SAFIPUR,Fruits,2019,8,30,Mango,UNNAO,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of Red rust in Mango ",nan,26.5673,80.6198
+SARENI,Fruits,2019,4,4,Mango,RAEBARELI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of red rust",nan,26.2087,81.2186
+MITAULI,Fruits,2019,5,24,Mango,KHERI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango",nan,28.1167,80.7167
+Mawai,Fruits,2019,2,14,Mango,FAIZABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in mango tree","To control red rust in mango tree spray copper oxichloride 50  WP  2 gramliter water",26.7789,82.1427
+"PURA BAZAR",Fruits,2019,4,11,Mango,FAIZABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in Mango plant",nan,26.7789,82.1427
+SOHAWAL,Fruits,2019,10,16,Mango,FAIZABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in mango tree",nan,26.7789,82.1427
+KUREBHAR,Fruits,2019,3,8,Mango,SULTANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in mango plant",nan,26.2605,82.2381
+KADIPUR,Fruits,2019,6,17,Mango,SULTANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in mango plant",nan,26.2605,82.2381
+GAURA,Fruits,2019,2,6,Mango,PRATAPGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Control of Red rust in Mango tree","Dear farmer spray of Copper oxychloride 50  2 gram liter of water ",25.75,81.75
+SHIVGARH,Fruits,2019,3,14,Mango,PRATAPGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in mango plant",nan,25.75,81.75
+KUNDA,Fruits,2019,6,17,Mango,PRATAPGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of Red rust in Mango ",nan,25.75,81.75
+BIHAR,Fruits,2019,6,29,Mango,PRATAPGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango crop ",nan,25.75,81.75
+EKA,Fruits,2019,7,30,Mango,FIROZABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango plant",nan,27.1942,78.4605
+MAU,Fruits,2019,4,8,Mango,CHITRAKOOT,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in mango ",nan,25.2171,81.1046
+KARWI,Fruits,2019,9,28,Mango,CHITRAKOOT,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH"," Red rust problem in mango plant",nan,25.2171,81.1046
+BERAHANI,Fruits,2019,1,27,Mango,CHANDAULI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","  Red rust  control in Mango ","Spray Copper Oxychloride  2 gram  litre of water",25.1257,83.2495
+NIYAMATABAD,Fruits,2019,5,12,Mango,CHANDAULI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in Mango",nan,25.1257,83.2495
+DEEGH,Fruits,2019,1,14,Mango,"SANT RAVIDAS NAGAR BHADOHI","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of red rust in Mango ","Dear farmer spray of Mancozeb 75 WP  3 gramliter of water",27.1303,80.8597
+AURAI,Fruits,2019,5,21,Mango,"SANT RAVIDAS NAGAR BHADOHI","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Control of red rust in Mango ",nan,27.1303,80.8597
+ABHAULI,Fruits,2019,7,28,Mango,"SANT RAVIDAS NAGAR BHADOHI","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of Red rust in Mango",nan,27.1303,80.8597
+PANIYARA,Fruits,2019,5,13,Mango,MAHARAHGANJ,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust problem of Mango tree ",nan,27.1303,80.8597
+MAHRAJGANJ,Fruits,2019,8,16,Mango,MAHARAHGANJ,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in Mango",nan,27.1303,80.8597
+BAGHAULI,Fruits,2019,1,13,Mango,"SANT KABIR NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust Disease problem in Mango plant ","Copper oxychloride 50 WP 02 gram  litre pani ke sath milaakar spray kare ",26.7551,83.0399
+TANDA,Fruits,2019,2,27,Mango,"AMBEDKAR NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust disease control in mango plant",nan,26.4046,82.6065
+BHITI,Fruits,2019,6,15,Mango,"AMBEDKAR NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of red rust in Mango ",nan,26.4046,82.6065
+"RAM NAGAR",Fruits,2019,7,19,Mango,"AMBEDKAR NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control in Mango",nan,26.4046,82.6065
+"REHERA BAZAAR",Fruits,2019,9,17,Mango,BALRAMPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust in mango crop ",nan,27.4477,82.3956
+Gunnor,Fruits,2019,3,5,Mango,"SAMBAL BHIM NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mango ",nan,27.1303,80.8597
+KHARGRAM,Fruits,2019,6,5,Mango,MURSHIDABAD,"Plant Protection",nan,HORTICULTURE,"WEST BENGAL","ASKING ABOUT CONTROL OF RED RUST IN MANGO ",nan,24.1746,88.2721
+RAMPURHAT-I,Fruits,2019,7,17,Mango,BIRBHUM,"Plant Protection",nan,HORTICULTURE,"WEST BENGAL","ASKING ABOUT THE CONTROL OF RED RUST IN MANGO    ",nan,24.0622,87.6983
+"0   ",Fruits,2019,4,22,Mango,BANKURA,"Plant Protection",nan,HORTICULTURE,"WEST BENGAL","TELL ME ABOUT RED RUST CONTROL IN MANGO ",nan,23.1324,87.2082
+SANTURI,Fruits,2019,10,15,Mango,PURULIA,"Plant Protection",nan,HORTICULTURE,"WEST BENGAL","ASKING ABOUT THE CONTROL OF RED RUST IN PADDY",nan,23.2021,86.3229
+KORBA,Fruits,2019,6,28,Mango,KORBA,"Plant Protection",nan,HORTICULTURE,CHHATTISGARH,"Farmer need Information regards management of red Rust in mango crop",nan,22.5198,82.635
+PATHERGAMA,Fruits,2019,12,27,Mango,GODDA,"Plant Protection",nan,HORTICULTURE,JHARKAND,"Red rust in mango",nan,24.8646,87.2985
+NAMKUM,Fruits,2019,12,20,Mango,RANCHI,"Plant Protection",nan,HORTICULTURE,JHARKAND,"mango  plant in red rust ",nan,23.3701,85.325
+KARRA,Fruits,2019,10,27,Mango,KHUNTI,"Plant Protection",nan,HORTICULTURE,JHARKAND,"red rust diseases in  mango plant ",nan,22.9282,85.2814
+BAJPUR,Fruits,2019,2,2,Mango,"UDHAM SINGH NAGAR","Plant Protection",nan,HORTICULTURE,UTTARAKHAND,"red rust problem in mango","Kisan Bhai: Spray the copper oxychloride 25ml per liter of water twice in 15-days interval after rains for red rust disease in mango",29.0478,79.4326
+RAVULAPALEM,Fruits,2020,3,15,Mango,"EAST GODAVARI","Plant Protection",nan,HORTICULTURE,"ANDHRA PRADESH","mango Red rust management ","Application of Dimethoate or Methyl demeton  2 mllit will control the pests",16.9957,81.7154
+VAISHALI,Fruits,2020,8,30,Mango,VAISHALI,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust of mango plant ","  1    025--        ",25.7492,85.3972
+"SOUR BAZAR",Fruits,2020,1,27,Mango,SAHARSA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Red rust IN MANGO","Spray copper oxychloride  2 gram in 1 litter of water ",25.8331,86.6144
+KANTAMAL,Fruits,2020,1,25,Mango,BAUDH,"Plant Protection",nan,HORTICULTURE,ODISHA,"red rust of mango","Recommended to spray Copperoxychloride  600 gm per 200 litre of water per 1 acre of land for control of red rust of mango",20.8416,84.3213
+BHUBANESWAR,Fruits,2020,8,27,Mango,KHORDHA,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red rust in Mango","Recommended to spray  Azoxystrobin  23 SC  1mlChlorothalonil 75 WP2 gram per liter of water to control Red rust in Mango",20.0538,85.5023
+DEVAKOTTAI,Fruits,2020,2,10,Mango,SIVAGANGA,"Plant Protection",nan,HORTICULTURE,TAMILNADU,"Asked about Red rust management in Mango "," :      650    1  1   25   25     500   ",9.84869,78.487
+MUZAFFARABAD,Fruits,2020,6,19,Mango,SAHARANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust control in mango tree ","         50   2            ",29.9857,77.5041
+JAITPUR,Fruits,2020,6,3,Mango,SHAHJAHANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red rust in Mango ","     50 WP  2        ",27.9129,79.7476
+BARKHERA,Fruits,2020,12,6,Mango,PILIBHIT,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust control in mango tree ","         50   2            ",28.4947,80.1076
+SHANKARGARH,Fruits,2020,1,12,Mango,ALLAHABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust control in mango plant ","       Copper Oxychloride 50 WP   2          ",25.4381,81.8338
+URUWAN,Fruits,2020,1,17,Mango,ALLAHABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of Red rust in Mango ","     50 WP  3       ",25.4381,81.8338
+MAUDAHA,Fruits,2020,10,30,Mango,HAMIRPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango  ","     50 WP  2         ",25.75,80
+"SUJAN GANJ",Fruits,2020,2,9,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Give information about Red rust disease of Mango plants ","       Z            ",25.7967,82.4889
+KHUTHAN,Fruits,2020,2,15,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust disease problem in Mango plant","          50 WP 02          ",25.7967,82.4889
+SIKRARA,Fruits,2020,2,22,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust disease problem in Mango plant","          50 WP 02          ",25.7967,82.4889
+"MACHCHALI SHAHAR",Fruits,2020,3,6,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of red rust in mango tree ","       Copper Oxychloride 50 WP  2 - 3          ",25.7967,82.4889
+"KARANJA KALA",Fruits,2020,6,3,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust control in mango plant ","         50  WP  2          ",25.7967,82.4889
+"BADLA PUR",Fruits,2020,6,15,Mango,JAUNPUR,"Cultural Practices",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control of Mango plant","Sir aap Bordeaux mixture  1 ka spray karen ",25.7967,82.4889
+"DHARMA PUR",Fruits,2020,8,27,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about  control of  Red rust mango plant","----        50 WP 35 Streptomycin sulphate  Tetracycline combination 1  15      ",25.7967,82.4889
+"JALAL PUR",Fruits,2020,9,29,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust  Chronic disease control in Mango plant","   50 WP 25          ",25.7967,82.4889
+SADAT,Fruits,2020,2,29,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust problem control in Mango plant "," 29   5                   15C    26 C     4 -7               l",25.6035,83.5076
+DEVKALI,Fruits,2020,3,3,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust control information of Mango plant","  Copper oxychloride  WP         ",25.6035,83.5076
+SADAT,Fruits,2020,9,30,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango  ","     50 WP  2         ",25.6035,83.5076
+SADAT,Fruits,2020,10,2,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust problem control in Mango","   50 WP 25          ",25.6035,83.5076
+HARRAIYA,Fruits,2020,7,29,Mango,BASTI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about  control Red rust in mango plant","      50 WP 2         ",26.8387,82.5351
+BISWAN,Fruits,2020,2,8,Mango,SITAPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust disease problem in Mango plant","          50 WP 02          ",27.5027,80.8335
+KACHAUNA,Fruits,2020,11,8,Mango,HARDOI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust control in mango tree ","       Copper Oxychloride 50 WP  2             ",27.337,80.0998
+Mawai,Fruits,2020,3,1,Mango,FAIZABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust disease problem in Mango plant ","        30 EC 02 ml         ",26.7789,82.1427
+KADIPUR,Fruits,2020,7,29,Mango,SULTANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust problem control in Mango","   50 WP 500  200      ",26.2605,82.2381
+KADIPUR,Fruits,2020,7,29,Mango,SULTANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust problem control in Mango","   50 WP 25      ",26.2605,82.2381
+MANDHATA,Fruits,2020,3,17,Mango,PRATAPGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango  ","     50 WP  2        ",25.75,81.75
+"SANDWA CHANDRIKA",Fruits,2020,9,29,Mango,PRATAPGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of Red rust in Mango","     50 WP  2         ",25.75,81.75
+KALAKANKAR,Fruits,2020,10,9,Mango,PRATAPGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust control in mango plant ","       Copper Oxychloride 50 WP  2            ",25.75,81.75
+MASAULI,Fruits,2020,8,24,Mango,BARABANKI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust control in mango garden ","         50  2            ",26.9421,81.3856
+SAKALDIHA,Fruits,2020,2,25,Mango,CHANDAULI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of red rust in mango tree ","       Copper oxychloride 50 WP  25          ",25.1257,83.2495
+NIYAMATABAD,Fruits,2020,3,6,Mango,CHANDAULI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of red rust disease in mango tree ","             250      250       125  100                       ",25.1257,83.2495
+SARBANKHERA,Fruits,2020,2,19,Mango,"KANPUR DEHAT","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Give information about the control of Red rust disease in Mango plant ","                 50 WG 3          ",26.4586,79.8548
+Gauriganj,Fruits,2020,6,30,Mango,"AMETHI  Shahu Ji Maharaj","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust  Stem rot Problem control in Mango Plant ","   50 WP 25     05         ",27.1303,80.8597
+MAHAGAMA,Fruits,2020,2,11,Mango,GODDA,"Plant Protection",nan,HORTICULTURE,JHARKAND,"Red rust of mango ",nan,24.8646,87.2985
+GUDRI,Fruits,2020,1,27,Mango,"WEST SINGHBHUM","Plant Protection",nan,HORTICULTURE,JHARKAND,"Red rust of mango plant ",nan,22.4283,85.5317
+SONUA,Fruits,2020,1,29,Mango,"WEST SINGHBHUM","Plant Protection",nan,HORTICULTURE,JHARKAND,"mango plant in  red rust",nan,22.4283,85.5317
+KARRA,Fruits,2020,2,3,Mango,KHUNTI,"Plant Protection",nan,HORTICULTURE,JHARKAND,"mango plant in red rust",nan,22.9282,85.2814
+REMUNA,Fruits,2021,10,28,Mango,BALASORE,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red Rust in mango","Recommended to spray with SAAFSixer Carbendazim- 12  Mancozeb - 63   400 g per 200 litre of water per 1 acre of land 2 g in 1 Litre water for effective control of red rust in mango",21.5006,86.9199
+JUJOMURA,Fruits,2021,4,18,Mango,SAMBALPUR,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red rust in mango ","Recommended to spray Copper Oxychloride 600 g  Plantomycin 200 g in 200 litre of water per 1 acre of landCopper Oxychloride  3 g  Plantomycin 1 g in 1 Litre water to control Red rust in mango ",21.5571,84.1529
+KADAIYAMPATTY,Fruits,2021,1,22,Mango,SALEM,"Plant Protection",nan,HORTICULTURE,TAMILNADU,"Asking about red rust management in mango"," :       :         2 5       ",11.647,78.2107
+"BALLIA KHERI",Fruits,2021,12,25,Mango,SAHARANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust problem in mango tree ","       Copper Oxychloride 50 WP 2           ",29.9857,77.5041
+"MAWANA KALAN",Fruits,2021,3,23,Mango,MEERUT,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust in leaves of mango plant ","             50     25          ",29.0019,77.768
+JANIKHURD,Fruits,2021,6,2,Mango,MEERUT,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Mango leaves have red rust","           0 25    ",29.0019,77.768
+SHAMSABAD,Fruits,2021,9,1,Mango,AGRA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust  insect control in mango fruits crop","        50  wp    - 38 gram 15             30  EC    38 ML    ",27.1753,78.0098
+MION,Fruits,2021,12,8,Mango,BADAUN,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust control in mango plant ","         50   2            ",28.0649,79.0438
+KORAON,Fruits,2022,1,1,Mango,ALLAHABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust control in mango plant ","         50  2          ",25.4381,81.8338
+KON,Fruits,2022,2,1,Mango,MIRZAPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red rust in Mango","   Copper oxychloride 50 WP  25              ",24.9317,82.628
+GHORAWAL,Fruits,2022,3,3,Mango,SONBHADRA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH"," Information about red rust problem in mango tree","         50  2           ",24.4148,83.0638
+JAKHANIA,Fruits,2022,4,9,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust is found in mango crop","   Copper oxychloride 50 WP  500    200        ",25.6035,83.5076
+"0   ",Fruits,2022,4,11,Mango,DEORIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango","   Copper oxychloride 50 WP  25          ",26.424,83.7639
+KURWAR,Fruits,2022,4,25,Mango,SULTANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust control in mango tree ","         50   2            ",26.2605,82.2381
+PADRAUNA,Fruits,2022,4,8,Mango,"KUSHI NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red rust in mango crop","   Copper oxychloride 50 WP  500    200        ",27.1303,80.8597
+KHUNIYAON,Fruits,2022,4,10,Mango,"SIDDHARTH NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red rust in Mango","   Copper oxychloride 50 WP  25          ",27.2753,83.0676
+AKOLA,Fruits,2022,5,20,Mango,AGRA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango plant","   Copper oxychloride 50 WP  25          ",27.1753,78.0098
+SAIDPUR,Fruits,2022,5,9,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango","   Copper oxychloride 50 WP  25          ",25.6035,83.5076
+MARDAH,Fruits,2022,5,17,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust Disease control in Mango fruits crop  ","--       50   - 25          ",25.6035,83.5076
+VISHESHWARGANJ,Fruits,2022,5,8,Mango,BAHRAICH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red Rust in mango crop","   Copper oxychloride 50 WP  500    200        ",27.7344,81.4765
+MAHASI,Fruits,2022,5,19,Mango,BAHRAICH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango crop","   Copper oxychloride 50 WP  25          ",27.7344,81.4765
+PATTI,Fruits,2022,5,8,Mango,PRATAPGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red rust in Mango","   Copper oxychloride 50 WP  25          ",25.75,81.75
+"PRATAPGARH SADAR",Fruits,2022,5,11,Mango,PRATAPGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango","   Copper oxychloride 50 WP  25          ",25.75,81.75
+DHANAPUR,Fruits,2022,5,8,Mango,CHANDAULI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust Disease control in Mango fruits crop  ","   - 60ml  15      ",25.1257,83.2495
+AKBARPUR,Fruits,2022,5,19,Mango,"AMBEDKAR NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red rust in mango crop","   Copper oxychloride 50 WP  500    200        ",26.4046,82.6065
+JALALABAD,Fruits,2022,6,8,Mango,SHAHJAHANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red rust in Mango","   Copper oxychloride 50 WP  25          ",27.9129,79.7476
+"HAINSAR BAZAR",Fruits,2022,6,12,Mango,"SANT KABIR NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango","   Copper oxychloride 50 WP  25          ",26.7551,83.0399
+NAGRA,Fruits,2022,7,27,Mango,BALLIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango","   Copper oxychloride 50 WP  25          ",25.875,84.121
+Gauriganj,Fruits,2022,7,2,Mango,"AMETHI  Shahu Ji Maharaj","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red Rust Management in Mango Plant","   dimethoate 30EC  2   Metalaxyl 8 Mancozeb 64 WP  2         ",27.1303,80.8597
+SEFAI,Fruits,2022,8,28,Mango,ETAWAH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango","   Copper oxychloride 50 WP  25          ",26.7156,79.0917
+KAKWAN,Fruits,2022,8,2,Mango,"KANPUR CITY","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH"," Information about  red rust problem in mango tree","       Copper Oxychloride 50 WP 2          ",26.4551,80.3512
+LAR,Fruits,2022,8,14,Mango,DEORIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red Rust Management in Mango Plant"," -Metalaxyl 8 and Mancozeb 64 WP  2   30  2           ",26.424,83.7639
+KUNDA,Fruits,2022,8,14,Mango,PRATAPGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust problem in Mango plant ","             50 WP  25          ",25.75,81.75
+SISWA,Fruits,2022,8,11,Mango,MAHARAHGANJ,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust control in Mango plant ","                50 WP  2            ",27.1303,80.8597
+SAIDABAD,Fruits,2022,9,13,Mango,ALLAHABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red rust in Mango","   Copper oxychloride 50 WP  25          ",25.4381,81.8338
+"PATHAR DEWA",Fruits,2022,9,3,Mango,DEORIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red rust  in mango crop","   Copper oxychloride 50 WP  500    200        ",26.424,83.7639
+MAHASI,Fruits,2022,9,3,Mango,BAHRAICH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust control in mango plant","-    50 WP  25         ",27.7344,81.4765
+SHIVPUR,Fruits,2022,9,20,Mango,BAHRAICH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust Disease Mango Plant","     50 WP 25g       ",27.7344,81.4765
+BHADAIYA,Fruits,2022,9,22,Mango,SULTANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red rust in Mango","  Carbendazim 12   Mancozeb 63  WP 2           ",26.2605,82.2381
+TANDA,Fruits,2022,10,27,Mango,"AMBEDKAR NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango","   Copper oxychloride 50 WP  25          ",26.4046,82.6065
+MARDAH,Fruits,2022,12,9,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust management in mango plant","    50WP  25             ",25.6035,83.5076
+BARHAJ,Fruits,2023,2,15,Mango,DEORIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Protection measure of red rust in mango tree","        25          ",26.424,83.7639
+DHANAPUR,Fruits,2023,2,6,Mango,CHANDAULI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango","  Copper oxychloride 50 WP  25           ",25.1257,83.2495
+"RAM NAGAR",Fruits,2023,2,6,Mango,"AMBEDKAR NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in  mango crop","  Copper oxychloride 50 WP  2           ",26.4046,82.6065
+BIKAPUR,Fruits,2023,3,19,Mango,FAIZABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of Red rust in mango crop","  Copper oxychloride 50 WP  500    200         ",26.7789,82.1427
+RUPAIDEEH,Fruits,2023,3,27,Mango,GONDA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in mango crop ","  Copper oxychloride 50 WP  500    200         ",27.1104,81.9239
+MAGRAURA,Fruits,2023,3,18,Mango,PRATAPGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of  red rust  in mango  crop","  Copper oxychloride 50 WP  500    200         ",25.75,81.75
+FAZILNAGAR,Fruits,2023,3,12,Mango,"KUSHI NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust  in mango crop","  Copper oxychloride 50 WP  500    200         ",27.1303,80.8597
+BHIYAWAN,Fruits,2023,3,14,Mango,"AMBEDKAR NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust  in mango crop","  Copper oxychloride 50 WP  500    200         ",26.4046,82.6065
+MADNAPUR,Fruits,2023,4,3,Mango,SHAHJAHANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH"," Information about red rust management in mango plant"," -        50WP  25           ",27.9129,79.7476
+POLUR,Fruits,2023,4,17,Mango,TIRUVANNAMALAI,"Plant Protection",nan,HORTICULTURE,TAMILNADU,"Asked about Red rust disease management for Mango "," :      :        2 5       ",12.4289,78.9992
+PINDRA,Fruits,2023,4,10,Mango,VARANASI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust problem in Mango plant ","         50 WP  2            ",25.3356,83.0076
+SHIVGARH,Fruits,2023,4,17,Mango,PRATAPGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red Rust  in Mango crop","  Copper oxychloride 50 WP  500    200        ",25.75,81.75
+"0   ",Fruits,2023,5,3,Mango,PATHANKOT,"Plant Protection",nan,HORTICULTURE,PUNJAB,"Regarding anthracnoseRed Rust Leaf Scorch in mango","Prune off the diseased or dead shoots and apply Bordeaux Paste Or Copper oxychloride paste on cutSpray the tree with Mancozeb2g1 litre of wateror Copper oxychloride3g1 litre of wateror Carbendazim1g1 litre of watergive 2-3 subsequent sprays at fortnightly intervals ",32.3022,75.6589
+JAMALPUR,Fruits,2023,5,14,Mango,MIRZAPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Protection measure of red Rust in mango","                25         ",24.9317,82.628
+"GAURI BAZAR",Fruits,2023,6,3,Mango,DEORIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango crop","  Copper oxychloride 50 WP  500    200         ",26.424,83.7639
+KANTAMAL,Fruits,2023,7,23,Mango,BAUDH,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red rust in mango","Recommended to spray Copper Oxychloride  600 g per 200 litre of water per 1 acre of land for red rust in mango",20.8416,84.3213
+SAIDABAD,Fruits,2023,7,10,Mango,ALLAHABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust Disease Management in Mango plant"," -   50WP  25              ",25.4381,81.8338
+NARAINPUR,Fruits,2023,7,30,Mango,MIRZAPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","-Information about the control of Red rust  in Mango  crop","  Copper oxychloride 50 WP 2        ",24.9317,82.628
+BHAGWANPUR,Fruits,2023,7,24,Mango,HARIDWAR,"Plant Protection",nan,HORTICULTURE,UTTARAKHAND,"red rust disease control in mango tree","             50  25        ",29.9384,78.1453
+DHAMPUR,Fruits,2023,8,3,Mango,BIJNOR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","--Information about the control of Red Rust  in Mango crop","  Copper oxychloride 50 WP  500    200         ",29.4074,78.4821
+DHANAPUR,Fruits,2023,8,18,Mango,CHANDAULI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red Rust in mango crop","  Copper oxychloride 50 WP  500    200         ",25.1257,83.2495
+"HAINSAR BAZAR",Fruits,2023,8,17,Mango,"SANT KABIR NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red Rust  in  Mango crop","  Copper oxychloride 50 WP  500    200         ",26.7551,83.0399
+KHUTHAN,Fruits,2023,9,2,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red Rust in Mango crop","  Copper oxychloride 50 WP  500    200         ",25.7967,82.4889
+GAGAHA,Fruits,2023,9,26,Mango,GORAKHPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red Rust  in  Mango crop","  Copper oxychloride 50 WP  500    200         ",26.6678,83.3642
+PIHANI,Fruits,2023,9,23,Mango,HARDOI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in mango crop","  Copper oxychloride 50 WP  500    200         ",27.337,80.0998
+"PRATAPGARH SADAR",Fruits,2023,9,6,Mango,PRATAPGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red Rust in mango crop","  Copper oxychloride 50 WP  50-60     20       ",25.75,81.75
+AKBARPUR,Fruits,2023,9,3,Mango,"AMBEDKAR NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of Red rust of mango plant ","     50  WP  2         ",26.4046,82.6065
+MOHAMMADABAD,Fruits,2023,10,7,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red Rust in Mango crop","  Copper oxychloride 50 WP  500    200         ",25.6035,83.5076
+RUPAIDEEH,Fruits,2023,10,14,Mango,GONDA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Give information about red rust problem in mango leaf","   Copper Oxychloride 50WP 2   36 2 ml          ",27.1104,81.9239
+BHANWAPUR,Fruits,2023,11,26,Mango,"SIDDHARTH NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of red rust in mango plant","     50  WP  2         ",27.2753,83.0676
+MAHAKALAPADA,Fruits,2023,12,4,Mango,KENDRAPARA,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red rust in mango","Recommended to spray Copper Oxychloride  600 g per 200 litre of water per 1 acre of land for red rust in mango",20.5475,86.5296
+JAITHARA,Fruits,2023,12,19,Mango,ETAH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust disease control in Mango plant ","              50 WP  25         178SL  05ML         ",27.555,78.5992
+"RAM PUR",Fruits,2024,1,13,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red Rust Disease control in Mango fruits crop  ","--      -   50 WP   - 25           ",25.7967,82.4889
+SHAHABAD,Fruits,2024,2,24,Mango,HARDOI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","information about control of red rust of mango plant","     50  WP  25         ",27.337,80.0998
+JAISINGHPUR,Fruits,2024,3,23,Mango,SULTANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust on mango leaves and white jassids attack","Copper Oxychloride 50 WP  2   Imidacloprid 178 SL  05            ",26.2605,82.2381
+"RAM PUR",Fruits,2024,3,31,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","information about control of red rust of mango plant","     50  WP  2         ",25.7967,82.4889
+UN,Fruits,2024,6,13,Mango,"SHAMLI PRABUDH NAGER","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango  crop","  Copper oxychloride 50  WP  500    200         ",27.1303,80.8597
+BANDRA,Fruits,2024,7,2,Mango,MUZAFFARPUR,"Plant Protection",nan,HORTICULTURE,BIHAR,"query related to red rust on mango leaf","        2           ",26.1483,85.3316
+RAJGARH,Fruits,2024,7,13,Mango,RAJGARH,"Plant Protection",nan,HORTICULTURE,"MADHYA PRADESH","Farmer wants information to control red rust in Mango crop ","              45 wp           ",23.8717,76.7745
+GHATIYA,Fruits,2024,7,17,Mango,UJJAIN,"Plant Protection",nan,HORTICULTURE,"MADHYA PRADESH","Farmer wants to know information about how to control of fungal attack red rust in mango crop","                WP           IP       IP                ",23.1885,75.7717
+"RAMPUR MATHURA",Fruits,2024,7,20,Mango,SITAPUR,"Fertilizer Use and Availability",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust disease control in Mango crop ","               100    -100   100          ",27.5027,80.8335
+TUREKELA,Fruits,2024,7,22,Mango,BALANGIR,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red rust of mango","Recommended to spray copper oxychloride 50  WP  2-3 g 1 liter water",20.6095,83.1673
+"SIRAULI GAUSPUR",Fruits,2024,7,26,Mango,BARABANKI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","information about control of Red rust spots in mango leaf ","    50 WP 400   200            ",26.9421,81.3856
+NIYAMATABAD,Fruits,2024,7,30,Mango,CHANDAULI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red Rust  in  Mango crop","  Copper oxychloride 50  WP 2  3        500    200         ",25.1257,83.2495
+BASKHARI,Fruits,2024,7,30,Mango,"AMBEDKAR NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","information about control of red rust disease in mango leaf ","              50 WP 42         ",26.4046,82.6065
+ASAFPUR,Fruits,2024,8,1,Mango,BADAUN,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust disease control in Mango plant ","              70 wp  2-3            ",28.0649,79.0438
+SAIDPUR,Fruits,2024,8,1,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","information about control of red rust disease in mango plant","     50  WP  2         ",25.6035,83.5076
+"KASHI VIDYAPEETH",Fruits,2024,8,3,Mango,VARANASI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red Rust on Mango Leaves","    10     Copper Oxychloride 50 WP  25          15     2    ",25.3356,83.0076
+SOHANV,Fruits,2024,8,8,Mango,BALLIA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Provide about information of red rust disease in mango plant ","                 50 WP 2            ",25.875,84.121
+ANUPGARH,Fruits,2024,8,17,Mango,GANGANAGAR,"Plant Protection",nan,HORTICULTURE,RAJASTHAN,"ASKED ABOUT TO RED RUST DISEASE IN MANGO  ","  50     3         ",29.9049,73.8793
+MAJHAWA,Fruits,2024,8,22,Mango,MIRZAPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust disease control in Mango crop ","               Mandipropamid 234 SC 15 ML          ",24.9317,82.628
+RUDAULI,Fruits,2024,8,25,Mango,BASTI,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red rust in Mango crop","  Copper oxychloride 50  WP  500    200         ",26.8387,82.5351
+MANKAPUR,Fruits,2024,8,28,Mango,GONDA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust control in mango   ","       50  WP  3             ",27.1104,81.9239
+DELHI,Fruits,2024,8,27,Mango,"New Delhi Connaught Place","Plant Protection",nan,HORTICULTURE,DELHI,"Farmer asked about to disease red rust control in mango ","           3         ",28.6426,77.2211
+SIMULIA,Fruits,2024,9,4,Mango,BALASORE,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red rust in mango ","Recommended to spray Copper Oxychloride  600 g per 200 litre of water per 1 acre of land3g in 1 litre of water ",21.5006,86.9199
+GHATAMPUR,Fruits,2024,9,4,Mango,"KANPUR CITY","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red rust in mango tree","  Copper oxychloride 50  WP  25            ",26.4551,80.3512
+MAHEVA,Fruits,2024,9,14,Mango,JALAUN,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","information about control of red rust in mango tree ","    50 WP 400   200            ",26.1049,79.3919
+CHHANVEY,Fruits,2024,9,15,Mango,MIRZAPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about red rust and caterpillar problem in Mango plant","       1  12    63  WP  2       2  20  EC  2 ML            I",24.9317,82.628
+BARASATHI,Fruits,2024,9,17,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","information about control of red rust disease in mango tree ","    50 WP 400   200            ",25.7967,82.4889
+GHAZIPUR,Fruits,2024,9,17,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the red rust  control of mango ","  Copper oxychloride 50  WP  25           ",25.6035,83.5076
+DUDHI,Fruits,2024,9,11,Mango,SONBHADRA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about control of red rust  in Mango","   Copper oxychloride 025           ",24.4148,83.0638
+ITWA,Fruits,2024,9,22,Mango,"SIDDHARTH NAGAR","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust disease in Mango","  Copper oxychloride 50  WP  2-3                       ",27.2753,83.0676
+GURUR,Fruits,2024,9,14,Mango,Balod,"Plant Protection",nan,HORTICULTURE,CHHATTISGARH,"Farmer wants information regarding control of Red rust and Grey Blight disease in Mango Tree ","                      50    40    15        15             ",20.7277,81.1447
+KHUTHAN,Fruits,2024,9,30,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Provide information about red rust control in mango plant","            -   50 WP - 300 ml      ",25.7967,82.4889
+JAKHANIA,Fruits,2024,10,13,Mango,GHAZIPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of red rust disease in Mango","  Copper oxychloride 50  WP  2           ",25.6035,83.5076
+GOSAIGANJ,Fruits,2024,10,1,Mango,LUCKNOW,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red Rust on Mango New Leaves","     6   Copper Oxychloride 50 WP  25          10-12     2    ",26.8381,80.9346
+BELSAR,Fruits,2024,10,24,Mango,GONDA,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust t in mango crop","  Copper oxychloride 50  WP  500    200         ",27.1104,81.9239
+MANDHATA,Fruits,2024,10,6,Mango,PRATAPGARH,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about the control of Red rust in Mango","   Copper oxychloride 50 WP  2- 25ml          ",25.75,81.75
+KETUGRAMI,Fruits,2024,10,23,Mango,BARDDHAMAN,"Plant Protection",nan,HORTICULTURE,"WEST BENGAL","Control of Red rust in mango ","          50 WP   4          ",23.25,87.75
+GANGANAGAR,Fruits,2024,11,8,Mango,GANGANAGAR,"Plant Protection",nan,HORTICULTURE,RAJASTHAN,"Farmer asked about to Red rust disease control in Mango ","  50     3         ",29.9049,73.8793
+BARIPADA,Fruits,2024,11,26,Mango,MAYURBHANJ,"Plant Protection",nan,HORTICULTURE,ODISHA,"Red rust in Mango","Recommended to spray Copper Oxychloride 50  WP  600 g acre in 200 liter of water for control Red rust in Mango  then after 7 days if you see again yellow colour leaf call again",21.9156,86.3962
+DELHI,Fruits,2024,11,27,Mango,"New Delhi Connaught Place","Plant Protection",nan,HORTICULTURE,DELHI,"ASKED ABOUT TO DISEASE CONTROL IN MANGO RED RUST  ","        50   3        ",28.6426,77.2211
+SAIDABAD,Fruits,2024,11,28,Mango,ALLAHABAD,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Red rust problem in mango plant","         50   25       15     2   ",25.4381,81.8338
+"BADLA PUR",Fruits,2024,11,29,Mango,JAUNPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","TELL ME DISEASE CONTROL IN   RED RUST ","           3          ",25.7967,82.4889
+SHEIKHPURA,Fruits,2024,12,23,Mango,SHEKHPURA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Query about control of red rust in Mango","           3               178 SL  1 ml  3           ",26.1667,84.5
+SHIVRAJPUR,Fruits,2024,12,23,Mango,"KANPUR CITY","Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red Rust disease in mango","                1   Copper oxychloride 50  WP   2       ",26.4551,80.3512
+KUREBHAR,Fruits,2024,12,26,Mango,SULTANPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about Red rust Control in Mango Trees","      Copper oxychloride 50  WP  2gm          ",26.2605,82.2381
+JAITPUR,Fruits,2025,1,13,Mango,MAHOBA,"Plant Protection",,HORTICULTURE,"UTTAR PRADESH","Give Information about of Red rust Disease Control in Mango Plant  ","            Copper Oxychloride   50 WP 2                ",25.3616,79.706
+Musafirkhana,Fruits,2025,1,28,Mango,"AMETHI  Shahu Ji Maharaj","Plant Protection",,HORTICULTURE,"UTTAR PRADESH","Information about the problem of Red rust  in Mango tree","  Copper oxychloride 005     ",27.1303,80.8597
+VIKASNAGAR,Fruits,2025,1,28,Mango,DEHRADUN,"Plant Protection",,HORTICULTURE,UTTARAKHAND,"Red Rust  Aphid problem in Mango Plant","        50   25      25   2        ",30.3256,78.0437
+RUDRAPUR,Fruits,2025,1,10,Mango,"UDHAM SINGH NAGAR","Plant Protection",,HORTICULTURE,UTTARAKHAND,"Red Rust disease in mango","     80 WDG 1          ",29.0478,79.4326
+CHHANVEY,Fruits,2025,2,1,Mango,MIRZAPUR,"Plant Protection",,HORTICULTURE,"UTTAR PRADESH","Give information about red rust control in mango","  Carbendazim 12  Mancozeb 63 WP   2  Emamectin benzoate 5 SG  1gram            ",24.9317,82.628
+CHAHNIYA,Fruits,2025,2,14,Mango,CHANDAULI,"Plant Protection",,HORTICULTURE,"UTTAR PRADESH","Information about control of red rust on mango plant  ","          75 WP 30    15             ",25.1257,83.2495

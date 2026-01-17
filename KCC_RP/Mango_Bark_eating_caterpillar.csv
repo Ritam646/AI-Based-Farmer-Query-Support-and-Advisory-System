@@ -1,0 +1,3 @@
+BlockName,Category,Year,Month,Day,Crop,DistrictName,QueryType,Season,Sector,StateName,QueryText,KccAns,latitude,longitude
+MAHIDPUR,Fruits,2021,5,12,Mango,UJJAIN,"Plant Protection",nan,HORTICULTURE,"MADHYA PRADESH","Farmer wants to know information about Bark-eating caterpillar problem in mango plant","                    3   5            5               ",23.1885,75.7717
+NAIGARHI,Fruits,2021,4,12,Mango,REWA,"Plant Protection",nan,HORTICULTURE,"MADHYA PRADESH","Farmer wants to know information about Bark-eating caterpillar problem in mango plant","                    3   5         4   5               ",24.7561,81.3811

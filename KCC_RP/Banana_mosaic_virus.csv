@@ -1,0 +1,28 @@
+BlockName,Category,Year,Month,Day,Crop,DistrictName,QueryType,Season,Sector,StateName,QueryText,KccAns,latitude,longitude
+"0   ",0,2009,4,1,Banana,NADIA,2,RABI,HORTICULTURE,"WEST BENGAL","CONTROL MOSAIC VIRUS IN BANANA","UPROOT THE AFFECTED PLANT",23.4847,88.5567
+"0   ",0,2009,4,1,Banana,NADIA,2,RABI,HORTICULTURE,"WEST BENGAL","CONTROL MOSAIC VIRUS IN BANANA","UPROOT THE AFFECTED PLANT",23.4847,88.5567
+"0   ",0,2009,4,1,Banana,NADIA,2,RABI,HORTICULTURE,"WEST BENGAL","CONTROL MOSAIC VIRUS IN BANANA","UPROOT THE AFFECTED PLANT",23.4847,88.5567
+"0   ",0,2009,4,1,Banana,NADIA,2,RABI,HORTICULTURE,"WEST BENGAL","CONTROL MOSAIC VIRUS IN BANANA","UPROOT THE AFFECTED PLANT",23.4847,88.5567
+"0   ",0,2010,4,2,Banana,JALGAON,75,RABI,HORTICULTURE,MAHARASHTRA,"CONTROL MEASURE FOR BANANA MOSAIC VIRUS","The field should be free from weed infestation Suckers from infected clumps should not be used for planting",20.8429,75.5261
+"0   ",0,2010,4,2,Banana,JALGAON,75,RABI,HORTICULTURE,MAHARASHTRA,"CONTROL MEASURE FOR BANANA MOSAIC VIRUS",nan,20.8429,75.5261
+"0   ",Fruits,2011,6,2,Banana,"Cooch BIHAR",75,RABI,HORTICULTURE,"WEST BENGAL","Banana bract mosaic virus of banana","Effective control of the disease is similar to that of other viral diseasesIt requires early detection and immediate eradication of infected plantsIn establishing new banana plantings only virus-free propagating materials should be used",26.3224,89.4592
+"0   ",0,2011,3,31,Banana,NADIA,75,KHARIF,HORTICULTURE,"WEST BENGAL","CONTROL MOSAIC VIRUS IN BANANA","UPROOT THE AFFECTED PLANT",23.4847,88.5567
+"0   ",Fruits,2012,1,20,Banana,AJMER,93,KHARIF,HORTICULTURE,RAJASTHAN,"BABANA PLANT AFFCTED BY MOSAIC VIRUS","DIMETHOATE 30EC 2MLLTR WATER SPRAY",26.4691,74.639
+"0   ",Fruits,2012,1,20,Banana,AJMER,93,KHARIF,HORTICULTURE,RAJASTHAN,"BABANA PLANT AFFCTED BY MOSAIC VIRUS","DIMETHOATE 30EC 2MLLTR WATER SPRAY",26.4691,74.639
+"POLLACHI NORTH",Fruits,2012,6,6,Banana,COIMBATORE,75,JAYAD,HORTICULTURE,TAMILNADU,"banana bract mosaic virus","spray monocrotophos 2 ml   lit in vector control",11.0018,76.9628
+ANDIYUR,Fruits,2012,9,2,Banana,ERODE,75,JAYAD,HORTICULTURE,TAMILNADU,"Banana bract mosaic virus","spray tilt 2mllit",11.4905,77.3505
+AMMAPET,Fruits,2012,9,8,Banana,ERODE,75,JAYAD,HORTICULTURE,TAMILNADU,"Infectious chlorosis: Cucumber mosaic virus  in banana","spray methyl demeton 2ml  neem oil 3ml  teepol 1 mllit of water",11.4905,77.3505
+THOVALA,Fruits,2012,12,18,Banana,"KANNIYA KUMARI",75,KHARIF,HORTICULTURE,TAMILNADU,"Banana bract mosaic virus","spray tilt 2mllit",10.9094,78.3665
+KALASAPAKKAM,Fruits,2012,12,13,Banana,TIRUVANNAMALAI,75,KHARIF,HORTICULTURE,TAMILNADU,"Banana bract mosaic virus","It requires early detection and immediate eradication of infected plants",12.4289,78.9992
+"VIKRAM JOT",Fruits,2012,10,8,Banana,BASTI,75,nan,HORTICULTURE,"UTTAR PRADESH","Bacterial Wilt or Moko Disease Mosaic Virus","Carbofuran 3 CG 1GPLANT Mancozeb 75 WP 1G1L WATER SPRAY ON BANANA PLANT",26.8387,82.5351
+KHANDWA,Fruits,2013,5,6,Banana,"EAST NIMAR","Plant Protection",RABI,HORTICULTURE,"MADHYA PRADESH","how to control Banana bract mosaic virus","immediate eradication of infected plantsIn establishing new banana plantings only virus-free propagating materials should be used",21.75,76.5833
+MURIBAHAL,Fruits,2014,6,18,Banana,BALANGIR,nan,nan,HORTICULTURE,ODISHA,"Banana bract mosaic virus","immediate eradication of infected plants",20.6095,83.1673
+BOUDH,Fruits,2014,10,25,Banana,BAUDH,"Plant Protection",nan,HORTICULTURE,ODISHA,"Banana bract mosaic virus","recommended to spray imidachlopride 5ml15 liter of water",20.8416,84.3213
+TIRUVELANGADU,Fruits,2014,10,7,Banana,THIRUVALLUR,"Plant Protection",KHARIF,HORTICULTURE,TAMILNADU,"Banana bract mosaic virus","Recommended for only virus-free propagating materials should be used",13.2538,80.0563
+ARANI,Fruits,2014,9,3,Banana,TIRUVANNAMALAI,"Plant Protection",KHARIF,HORTICULTURE,TAMILNADU,"yellow vein mosaic virus in papaya","Recommended for spray methyldemeton 2ml  lit",12.4289,78.9992
+MALLAPPALLY,Fruits,2016,6,25,Banana,PATHANAMTHITTA,"Plant Protection",nan,HORTICULTURE,KERALA,"banana streak mosaic virus","recommended to give additional care and avoid the seed material from the affected plant",9.27808,76.9737
+SASTHAMCOTTAH,Fruits,2016,7,5,Banana,KOLLAM,"Plant Protection",nan,HORTICULTURE,KERALA,"banana bract mosaic virus","ekalux 2mll",8.88724,76.5909
+BOXANAGAR,Fruits,2020,6,30,Banana,SEPAHIJELA,"Plant Protection",nan,HORTICULTURE,TRIPURA,"ASKING ABOUT BANANA MOSAIC VIRUS IN BANANA","apply DIMETHOATE 30EC OR FIPRONIL 5EV  15 ml mixing with every liter of water and apply 2 to 3 times in 3 to 4 days interval  and apply as foliage spray ",23.7751,91.7025
+RAVER,Fruits,2023,9,8,Banana,JALGAON,"Plant Protection",nan,HORTICULTURE,MAHARASHTRA,"Cucumber Mosaic Virus on Banana control measures ","    -                    ",20.8429,75.5261
+MUSKARA,Fruits,2023,9,26,Banana,HAMIRPUR,"Plant Protection",nan,HORTICULTURE,"UTTAR PRADESH","Information about to control of chlorosis mosaic virus in banana ","  Dimethoate 3O EC  2ml          ",25.75,80
+BISHNUPUR,Fruits,2025,2,18,Banana,BISHNUPUR,"Plant Protection",,HORTICULTURE,MANIPUR,"ASKING ABOUT CONTROL MEASURE OF BANANA MOSAIC VIRUS","- APPLY Phosphomidon at 1 ml per litre or methyl demeton at 2 ml per litre OF WATER",24.6267,93.76

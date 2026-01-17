@@ -1,0 +1,33 @@
+BlockName,Category,Year,Month,Day,Crop,DistrictName,QueryType,Season,Sector,StateName,QueryText,KccAns,latitude,longitude
+RIGA,Fruits,2023,4,10,Mango,SITAMARHI,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar related query","                5  SG 1 gm 3        ",26.5943,85.5004
+DUMRA,Fruits,2023,4,26,Mango,SITAMARHI,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar related query","               28  05 ml      ",26.5943,85.5004
+JAGDISHPUR,Fruits,2023,4,13,Mango,BHAGALPUR,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar related query","                5  SG 1 gm 3       ",25.2861,87.1304
+FORBESGANJ,Fruits,2023,4,22,Mango,ARARIA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  SG 1 gm 3                       5  1 ml      ",26.2651,87.3699
+PHENHARA,Fruits,2023,5,24,Mango,"PURBA CHAMPARAN","Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  1 ml                      28  05 ml                       5  SG 1 gm 3                       50  EC 15       ",26.5833,84.8333
+PURANI,Fruits,2023,5,10,Mango,MADHEPURA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  1 ml      ",25.7806,86.9365
+PARSAUNI,Fruits,2023,5,20,Mango,SITAMARHI,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  1 ml                      28  05 ml                       5  SG 1 gm 3                       50  EC 15       ",26.5943,85.5004
+SURSAND,Fruits,2023,5,28,Mango,SITAMARHI,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  SG 1 gm 3       ",26.5943,85.5004
+KIRATPUR,Fruits,2023,5,16,Mango,DARBHANGA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar related query","               10  2 ml      ",26.083,86.0325
+KALYANPUR,Fruits,2023,5,16,Mango,SAMASTIPUR,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  1 ml       ",25.7748,85.8672
+SHEIKHPURA,Fruits,2023,5,10,Mango,SHEKHPURA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  SG 1 gm 3       ",26.1667,84.5
+SHEIKHPURA,Fruits,2023,5,30,Mango,SHEKHPURA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  SG 1 gm 3        ",26.1667,84.5
+CHHATAPUR,Fruits,2023,5,17,Mango,SUPAUL,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  1 ml                      28  05 ml                       5  SG 1 gm 3        ",26.2768,86.796
+TRIBENIGANJ,Fruits,2023,5,28,Mango,SUPAUL,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  1 ml       ",26.2768,86.796
+KURHANI,Fruits,2023,5,16,Mango,MUZAFFARPUR,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar","                5  SG 1 gm 3       ",26.1483,85.3316
+DHAMDAHA,Fruits,2023,6,20,Mango,PURNEA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  SG 1 gm 3        ",25.7774,87.4731
+ARARIA,Fruits,2023,6,9,Mango,ARARIA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  SG 1 gm 3        ",26.2651,87.3699
+SAHAR,Fruits,2023,7,17,Mango,BHOJPUR,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  1 ml                      28  05 ml                       5  SG 1 gm 3                       50  EC 15       ",25.4501,84.5635
+GAURABAURAM,Fruits,2024,3,31,Mango,DARBHANGA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  SG 1 gm 3        ",26.083,86.0325
+BASOPATTI,Fruits,2024,4,15,Mango,MADHUBANI,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  SG 1 gm 3        ",26.3503,86.2296
+JAGDISHPUR,Fruits,2024,4,18,Mango,BHOJPUR,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  SG 1 gm 3        ",25.4501,84.5635
+BANMANKHI,Fruits,2024,4,21,Mango,PURNEA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar","                5  1 ml      ",25.7774,87.4731
+MAJHAULIA,Fruits,2024,5,5,Mango,"PASHCHIM CHAMPARAN","Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar related query","                49   1 ml       ",27,84.5
+KALUAHI,Fruits,2024,5,10,Mango,MADHUBANI,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  1 ml                      28  05 ml                       5  SG 1 gm 3                       50  EC 15       ",26.3503,86.2296
+MANIHARI,Fruits,2024,5,12,Mango,KATIHAR,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar","                5  SG 1 gm 3     ",25.5586,87.6457
+"UDA KISHANGANJ",Fruits,2024,5,19,Mango,MADHEPURA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  1 ml       ",25.7806,86.9365
+KISHANGANJ,Fruits,2024,5,17,Mango,KISHANGANJ,"Nutrient Management",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar ","                5  1 ml       ",26.2984,87.9467
+FORBESGANJ,Fruits,2024,5,19,Mango,ARARIA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar","                5  1 ml                       5  SG 1 gm 3        ",26.2651,87.3699
+RANIGANJ,Fruits,2024,5,24,Mango,ARARIA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar","                5  1 ml      ",26.2651,87.3699
+"KRITYANAND NAGAR",Fruits,2024,5,25,Mango,PURNEA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar","                5  1 ml      ",25.7774,87.4731
+SRINAGAR,Fruits,2024,6,3,Mango,PURNEA,"Plant Protection",nan,HORTICULTURE,BIHAR,"Mango Red banded caterpillar","                5  SG 1 gm 3       ",25.7774,87.4731
+KALYANPUR,Fruits,2025,3,26,Mango,SAMASTIPUR,"Plant Protection",,HORTICULTURE,BIHAR,"Mango Red banded caterpillar","                5  1 ml                      28  05 ml      ",25.7748,85.8672
